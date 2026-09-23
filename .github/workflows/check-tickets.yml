@@ -1,0 +1,36 @@
+name: check-tickets
+
+on:
+  schedule:
+    # Every 15 minutes (GitHub minimum effective granularity ~5 min).
+    # Continente gives NO advance warning, so frequent polling matters.
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python (stdlib only, no deps)
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check ticket sales
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python3 check.py --once
+
+      - name: Persist state.json
+        run: |
+          git config user.name "ticket-bot"
+          git config user.email "ticket-bot@users.noreply.github.com"
+          git add state.json
+          git diff --cached --quiet || git commit -m "bot: update state.json [skip ci]"
+          git push

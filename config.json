@@ -1,0 +1,13 @@
+{
+  "continente_url": "https://feed.continente.pt/fome-de-vencer",
+  "continente_fallback_urls": [
+    "https://produtos.continente.pt/fome-de-vencer",
+    "https://voltaportugal.continente.pt/fome-de-vencer"
+  ],
+  "fcporto_news_url": "https://www.fcporto.pt/pt/noticias",
+  "fcporto_base": "https://www.fcporto.pt",
+  "state_file": "state.json",
+  "alert_on_coming_soon": true,
+  "alert_on_sale": true,
+  "request_timeout": 30
+}

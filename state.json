@@ -1,4 +1,62 @@
 {
-  "continente": {},
-  "fcporto": {}
+  "continente": {
+    "portugal-vs-noruega-04-10-20-45": {
+      "away": "Noruega",
+      "date": "04/10",
+      "home": "Portugal",
+      "id": "portugal-vs-noruega-04-10-20-45",
+      "location": "Liga das Nações 2027 - Fase de Grupos Porto | Estádio do Dragão",
+      "price": "",
+      "source": "https://feed.continente.pt/fome-de-vencer",
+      "status": "coming_soon",
+      "time": "20:45",
+      "weekday": "Domingo"
+    },
+    "portugal-vs-pais-de-gales-24-09-19-45": {
+      "away": "País de Gales",
+      "date": "24/09",
+      "home": "Portugal",
+      "id": "portugal-vs-pais-de-gales-24-09-19-45",
+      "location": "Liga das Nações 2027 - Fase de Grupos Lisboa | Estádio José Alvalade",
+      "price": "€ 20,00",
+      "source": "https://feed.continente.pt/fome-de-vencer",
+      "status": "on_sale",
+      "time": "19:45",
+      "weekday": "Quinta"
+    }
+  },
+  "fcporto": {
+    "20260922-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-maritimo-madeira": {
+      "excluded": true,
+      "id": "20260922-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-maritimo-madeira",
+      "status": "on_sale",
+      "subcategory": "Andebol",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-Marítimo Madeira — 6.ª jornada do Campeonato Nacional de andebol disputa-se domingo às 15h00 no Dragão Arena",
+      "url": "https://www.fcporto.pt/pt/noticias/20260922-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-maritimo-madeira"
+    },
+    "20260923-pt-informacao-sobre-os-bilhetes-para-a-supertaca-de-basquetebol": {
+      "excluded": true,
+      "id": "20260923-pt-informacao-sobre-os-bilhetes-para-a-supertaca-de-basquetebol",
+      "status": "on_sale",
+      "subcategory": "Basquetebol",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para a Supertaça de basquetebol — FC Porto mede forças com o Sporting às 16h00 de sábado, em Albufeira",
+      "url": "https://www.fcporto.pt/pt/noticias/20260923-pt-informacao-sobre-os-bilhetes-para-a-supertaca-de-basquetebol"
+    },
+    "20260923-pt-informacao-sobre-os-bilhetes-para-o-ad-carvalhos-fc-porto": {
+      "excluded": true,
+      "id": "20260923-pt-informacao-sobre-os-bilhetes-para-o-ad-carvalhos-fc-porto",
+      "status": "on_sale",
+      "subcategory": "Andebol",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o AD Carvalhos-FC Porto — 5.ª jornada do Campeonato Nacional de Andebol disputa-se no Pavilhão Municipal de Gaia (quarta-feira, 21h00)",
+      "url": "https://www.fcporto.pt/pt/noticias/20260923-pt-informacao-sobre-os-bilhetes-para-o-ad-carvalhos-fc-porto"
+    },
+    "20260923-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-racing-power-fc": {
+      "excluded": true,
+      "id": "20260923-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-racing-power-fc",
+      "status": "on_sale",
+      "subcategory": "Feminino",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-Racing Power FC — 3.ª jornada da Liga feminina disputa-se às 11h00 de domingo no Olival",
+      "url": "https://www.fcporto.pt/pt/noticias/20260923-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-racing-power-fc"
+    }
+  }
 }

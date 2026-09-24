@@ -1,438 +1,105 @@
 {
-  "continente": {
-    "portugal-vs-noruega-04-10-20-45": {
-      "away": "Noruega",
-      "date": "04/10",
-      "home": "Portugal",
-      "id": "portugal-vs-noruega-04-10-20-45",
-      "location": "Liga das Nações 2027 - Fase de Grupos Porto | Estádio do Dragão",
-      "price": "",
-      "source": "https://feed.continente.pt/fome-de-vencer",
-      "status": "coming_soon",
-      "time": "20:45",
-      "weekday": "Domingo"
+  "appstock": {},
+  "continente": {},
+  "fcporto": {},
+  "press": {
+    "139cd0e7060e41b5": {
+      "id": "139cd0e7060e41b5",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdzFINloyaFlxUmk0RkVxdDlNU2RrYmhhcHVfbDRlNjVnVF8xUDdnSnVlbnhkZTA0eHVuRVdnMGFsREVnTjQ0c1FpZGp4OTFueEVfdTRQbVEwMGEzLWV0N0tZem1nbFJGZ0hDU3drM0lqUV9YR3JPNTJFOUg0dWRIRktVR1lES254MF8tcmgxdno3UU52a3ZsLWlrY3dBRUplY25CQ25EVWI5UFRnVU1HRFp1WGJsMEN1dDFFUXN3djd0dldkRVgxcnZ1eV9ya2pVOUl4Smw0YlZmbTlJY29yR3V4dDkzMFFuM3c?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 19:18:38 GMT",
+      "source": "superportistas.pt",
+      "title": "Supertaça de basquetebol: FC Porto e Sporting medem forças em Albufeira com bilhetes já à venda - superportistas.pt"
     },
-    "portugal-vs-pais-de-gales-24-09-19-45": {
-      "away": "País de Gales",
-      "date": "24/09",
-      "home": "Portugal",
-      "id": "portugal-vs-pais-de-gales-24-09-19-45",
-      "location": "Liga das Nações 2027 - Fase de Grupos Lisboa | Estádio José Alvalade",
-      "price": "€ 20,00",
-      "source": "https://feed.continente.pt/fome-de-vencer",
-      "status": "on_sale",
-      "time": "19:45",
-      "weekday": "Quinta"
-    }
-  },
-  "fcporto": {
-    "20260910-pt-bilhetes-a-venda-para-o-fc-porto-estoril-praia": {
-      "excluded": false,
-      "id": "20260910-pt-bilhetes-a-venda-para-o-fc-porto-estoril-praia",
-      "status": "on_sale",
-      "subcategory": "FC Porto",
-      "title": "FC Porto - Notícias - Bilhetes à venda para o FC Porto-Estoril Praia — 10.ª jornada da Liga joga-se dia 31 de outubro às 20h30 no Estádio do Dragão",
-      "url": "https://www.fcporto.pt/pt/noticias/20260910-pt-bilhetes-a-venda-para-o-fc-porto-estoril-praia"
+    "1fc3f8a559fa654e": {
+      "id": "1fc3f8a559fa654e",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZDVMbkxzMTNGZDFDeVJWYldETUlIb2lOcW4yNEtoTTRHa08teTJfVkZpUDNoSmV5QnRHcWx2elNSczRvMkpKVy1Kal9tdk1Xb0tMdzVVS09reWhTYVp2V0JsUXdRc0dIZmlDOVVYQVg5eFpxZU83dktGRkpuZkdUQ1NSVGZiR2x1bTRqUlRkZ0FUTFJKaEpROExSaThObkNqNnlOVHpJOA?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 06:33:00 GMT",
+      "source": "FC Porto",
+      "title": "Notícias - Informação sobre os bilhetes para o AD Carvalhos-FC Porto - FC Porto"
     },
-    "20260918-pt-bilhetes-a-venda-para-o-fc-porto-academico": {
-      "excluded": false,
-      "id": "20260918-pt-bilhetes-a-venda-para-o-fc-porto-academico",
-      "status": "on_sale",
-      "subcategory": "FC Porto",
-      "title": "FC Porto - Notícias - Bilhetes à venda para o FC Porto-Académico — Quartos de final da Taça da Liga jogam-se a 28 de outubro no Estádio do Dragão (20h30)",
-      "url": "https://www.fcporto.pt/pt/noticias/20260918-pt-bilhetes-a-venda-para-o-fc-porto-academico"
+    "215ff6ec61130151": {
+      "id": "215ff6ec61130151",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQzQwWEMwQlBqREJ2SXZWbGhaTG11Q2o1V29tRExXVklPSHRpVGRiVTNNZ2paUDRzZHJHNFgzNTNBNV9vWkVhZnoxTFY5VzRDeWtEb1BYY2FFS0pLVXMyU1kzRXdKMzZud2JHal9lWGI1d3JaSjFKcEJTYnlPN1VKMFhXX2VWNEFsamtackJreWhtNWxz?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 05:00:00 GMT",
+      "source": "FC Porto",
+      "title": "Notícias - Bilhetes à venda para o FC Porto-SSC Napoli - FC Porto"
     },
-    "20260922-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-maritimo-madeira": {
-      "excluded": true,
-      "id": "20260922-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-maritimo-madeira",
-      "status": "on_sale",
-      "subcategory": "Andebol",
-      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-Marítimo Madeira — 6.ª jornada do Campeonato Nacional de andebol disputa-se domingo às 15h00 no Dragão Arena",
-      "url": "https://www.fcporto.pt/pt/noticias/20260922-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-maritimo-madeira"
+    "3155e500272f2fbf": {
+      "id": "3155e500272f2fbf",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSGNLcmcxOU55VnUtSVdYWGxrYjRRaWQ1T2xjNmwyaGZHWXlBN01TWVhTcjZ5aWtyalFtR0hlNXJOMnB3a1FWNDAwRUUtdlI4T2lOU1locDVoREg4SW5MN3lTSkRHMWFQOUo0SVp1bDUzZm9iRlBKTUQwS2s1d2o2TjBPMWgzTW9sS1NQdTdlLVpGUjQ?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 07:00:00 GMT",
+      "source": "FC Porto",
+      "title": "Notícias - Bilhetes à venda para o FC Porto-Académico - FC Porto"
     },
-    "20260923-pt-informacao-sobre-os-bilhetes-para-a-supertaca-de-basquetebol": {
-      "excluded": true,
-      "id": "20260923-pt-informacao-sobre-os-bilhetes-para-a-supertaca-de-basquetebol",
-      "status": "on_sale",
-      "subcategory": "Basquetebol",
-      "title": "FC Porto - Notícias - Informação sobre os bilhetes para a Supertaça de basquetebol — FC Porto mede forças com o Sporting às 16h00 de sábado, em Albufeira",
-      "url": "https://www.fcporto.pt/pt/noticias/20260923-pt-informacao-sobre-os-bilhetes-para-a-supertaca-de-basquetebol"
+    "6654880ae3bc6968": {
+      "id": "6654880ae3bc6968",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYkZxdTVMbXhxTXd3T0x4UUJSZF9IVWFqdnBQVG11NXlOcC1oRzVJQXJMdVBnSkZQY3RGYmxfanBxRFktcy1CeExna1M5bFBnSHpvM0Q0bjRuZjIwX0pXMTlQbTVRMmIyckNYMWR6UDV6TDdPSWFRRi14aks0Qi1XTUg2S0hBSjBzVUpaWElmVnFkZkx0ZFowTE1pMnpkRFhWeVR1dktwaHcwNWJvSUNybC1jaXZEd1ZF?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 09:42:16 GMT",
+      "source": "SAPO",
+      "title": "Já pode comprar os bilhetes para Portugal-País de Gales no Continente - SAPO"
     },
-    "20260923-pt-informacao-sobre-os-bilhetes-para-o-ad-carvalhos-fc-porto": {
-      "excluded": true,
-      "id": "20260923-pt-informacao-sobre-os-bilhetes-para-o-ad-carvalhos-fc-porto",
-      "status": "on_sale",
-      "subcategory": "Andebol",
-      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o AD Carvalhos-FC Porto — 5.ª jornada do Campeonato Nacional de Andebol disputa-se no Pavilhão Municipal de Gaia (quarta-feira, 21h00)",
-      "url": "https://www.fcporto.pt/pt/noticias/20260923-pt-informacao-sobre-os-bilhetes-para-o-ad-carvalhos-fc-porto"
+    "83753d3fa1e456de": {
+      "id": "83753d3fa1e456de",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQN1lzaWZTSzY1c1paV3JiQlNrSFBfYmhsM2dXajJpV0FaUUF4UmNZalRKNmE2TzJraGRsenNuaVNBOF8zUlV3TFh4ZWtEd1RXOTE5Y2M2SDlVLWJIVi1HUDQyZThyMW5sOVdyWHJ2bTgwZXVER09hN2tjdVd1YmdFTm81dV9ZSFlDNTJSeGZLeTJfQ0l0dU9nTVFQMFhHTlNxaWhyNDNlSE41QlZlOXFKczZkTElFMEdTV3VJV0ZNNjlvZE95MmR1cW0zYTFZMy1rQkRGX2EzU0RJS291YVc3RlZoajlxLWPSAeIBQVVfeXFMTjNzcnAxLWZZd0JnX29JLXFOeVp5dTBMM0JRWWlGY08tY0Q5MGQwVFVIUzI4MXEyM0tWSDlMNTNIc05POXc2XzQ2N29Mczh6S2R0LWdqVFBlbWthbXZpeWNPeTllTXVmc0I5TmpuNV9DMGgtRVlLOVNOQ2hqSG1PYU5XOHJfWVVRRllpX3NPcFZ3Vy1JSmtqMTRiZkNsZFktbnE4SU8zUk82SndFaDItNXA2LV9zeEsxb1B6MTBRa2tOUVpEU1NaY2dWYlEyQUtQeGJXYXJoRkRVTEtTNVh5Tk5Ndw?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 19:37:46 GMT",
+      "source": "record.pt",
+      "title": "Bilhetes para o FC Porto-Académico Viseu na Allianz Cup a partir de 5 euros - record.pt"
     },
-    "20260923-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-racing-power-fc": {
-      "excluded": true,
-      "id": "20260923-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-racing-power-fc",
-      "status": "on_sale",
-      "subcategory": "Feminino",
-      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-Racing Power FC — 3.ª jornada da Liga feminina disputa-se às 11h00 de domingo no Olival",
-      "url": "https://www.fcporto.pt/pt/noticias/20260923-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-racing-power-fc"
+    "845f2400b62adeb0": {
+      "id": "845f2400b62adeb0",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02YTRoMjFUclg4bjEzZTVTNGFObVRCVjJkS3ZuYndCVE9sV2Z6LW8yVlZWcHRZWE9rZGtpV1kxQUwtaktGWlZmc1VKeGNoQnJmOXZ5RzNOYXV1aGw4QzdtU2NMM0hsdkdITTlSZDFVNjFza0FveFY2dTJBTHg?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 11:15:50 GMT",
+      "source": "fpb.pt",
+      "title": "Bilhetes para as Supertaças já estão à venda - fpb.pt"
     },
-    "20260924-pt-bilhetes-a-venda-para-o-fc-porto-cd-nacional": {
-      "excluded": false,
-      "id": "20260924-pt-bilhetes-a-venda-para-o-fc-porto-cd-nacional",
-      "status": "on_sale",
-      "subcategory": "FC Porto",
-      "title": "FC Porto - Notícias - Bilhetes à venda para o FC Porto-CD Nacional — FC Porto defronta os madeirenses na 16.ª jornada da Liga",
-      "url": "https://www.fcporto.pt/pt/noticias/20260924-pt-bilhetes-a-venda-para-o-fc-porto-cd-nacional"
+    "97f9317dd2753439": {
+      "id": "97f9317dd2753439",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZXJGZ1NjOVBNYzNZdVpTcmdUQnpLaVVxZGVRWDlJbU9MR1I2ckNhdE1oV3hIeHhmYnQwSEowS00zSW5nMHQ1LU9pQlo1YkcybmN0TF9yX1dxbHdyOHdqMm9CMlVkZXdpekxXSnVhSzc4czlHNDdNWnBrcS1OV2RsdjR2N0hUYnJSWkFic2YzUGxxV0dFemVhdnNjdEpFS283aGc?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 06:47:00 GMT",
+      "source": "FC Porto",
+      "title": "Notícias - Informação sobre os bilhetes para o FC Porto-SC Braga - FC Porto"
     },
-    "20260924-pt-bilhetes-a-venda-para-o-fc-porto-estrela-da-amadora": {
-      "excluded": false,
-      "id": "20260924-pt-bilhetes-a-venda-para-o-fc-porto-estrela-da-amadora",
-      "status": "on_sale",
-      "subcategory": "FC Porto",
-      "title": "FC Porto - Notícias - Bilhetes à venda para o FC Porto-Estrela da Amadora — FC Porto defronta os lisboetas na 14.ª jornada da Liga",
-      "url": "https://www.fcporto.pt/pt/noticias/20260924-pt-bilhetes-a-venda-para-o-fc-porto-estrela-da-amadora"
+    "a5b88dace80880ec": {
+      "id": "a5b88dace80880ec",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMFY3T0hnUy0wQzlrOVNTcXZhMVA1N0RjbTQ3ZnlpX2gtdlpIRnZfY0ZJdEt3bmM3ekNqNXlZaWZMakE1R3QzQl9PTlJqWWNLcWJEMXdBZnZ1dWR0VFVYQzlITjlfd0s4cllMV3VPOVI0RE1ZQlVWQWIxTDc2RWpNM3Q0U25YT3dMSTVaR2hJeFZJckdNQWtCSENGLXk1TjlrR0NjU2Z2YjDSAZoBQVVfeXFMTUFZblQ0MGVfblY1bjk2bUN0cjhaWHFtUC01dnpVdFgwX2ZwQlFnc2xZanBfbmRJS2p6d1ZhWlZhZHl3dFM3SFFFN1MyX19hWExOSDZKejVQUnRvNzJZekx1QjFxdUhOdFFYRFdxaUllSGdWSy1sS2JEM2dpZ2JWYThTTGd3RXlFbGsyMmhlcG1fMDBHdEhZWU1LUQ?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 18:11:00 GMT",
+      "source": "O Jogo",
+      "title": "Sporting: bilhetes para a receção ao LASK Linz já disponíveis - O Jogo"
     },
-    "20260924-pt-bilhetes-para-sevilha-a-venda-online": {
-      "excluded": false,
-      "id": "20260924-pt-bilhetes-para-sevilha-a-venda-online",
-      "status": "on_sale",
-      "subcategory": "FC Porto",
-      "title": "FC Porto - Notícias - Bilhetes para Sevilha à venda online — A partir das 10h00 desta sexta-feira",
-      "url": "https://www.fcporto.pt/pt/noticias/20260924-pt-bilhetes-para-sevilha-a-venda-online"
+    "ad8fee6dc763fd18": {
+      "id": "ad8fee6dc763fd18",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNmhwdmFFVWpZS2dwWExmRS1PaVM0T1c1aTZCRUJ3R2NpNDhjX1gyS0Rqa2djVThCRV9yNU9IOHRqRHJ3ckpHdnh1aWotbFcxQ2JTZVVOaU4xNk9TZGpBUGNhV1lUZkE4UFRuWEhFY2Y3SG15ZHI1a1hzc3FxS2t1WDkyVHZjLS1FczRJOTJqSXVhc2VoYmVrT1RuZkM5U1VENEh1LW5UdVVRX3ZmVFRDMlhWb2NfMF9xRTZ1R1V0Q0cwOHFKWlh3MlhBeVo0S3Z5N2FjbnBRcw?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 09:46:22 GMT",
+      "source": "Marketeer",
+      "title": "Quer ver o jogo Portugal x País de Gales em Alvalade? Há bilhetes desde 20€ e 25% de volta para clientes Continente - Marketeer"
     },
-    "20260925-pt-bilhetes-para-a-corunha-a-venda-online": {
-      "excluded": false,
-      "id": "20260925-pt-bilhetes-para-a-corunha-a-venda-online",
-      "status": "on_sale",
-      "subcategory": "FC Porto",
-      "title": "FC Porto - Notícias - Bilhetes para a Corunha à venda online — A partir das 18h00 desta sexta-feira",
-      "url": "https://www.fcporto.pt/pt/noticias/20260925-pt-bilhetes-para-a-corunha-a-venda-online"
+    "e0f0b0b04729b1b9": {
+      "id": "e0f0b0b04729b1b9",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRVAxMVFCb3NwNmQwNmpENFpNZVJjdHFYYml1UTdBRlM0TXNJX1BKcVlEWXp1NWF3eHJpWFpEQ3I3djg5bGk0QXNsYVNOaTdoSGVlVDVROVRYZTNvUWppR3RROS1TRXZmMHdtd1Q2VlBNaFRyNjBoY2ZHcmhHMWN4Mk1iMmhJN0tSUko0V0s2TmZmeV9sMVlMU3FsbWdCbnFqWUpsa09XRXllVnZ5?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 09:12:00 GMT",
+      "source": "FC Porto",
+      "title": "Notícias - Informação sobre os bilhetes para o FC Porto-Marítimo Madeira - FC Porto"
     },
-    "20260925-pt-bilhetes-para-sevilha-esgotados": {
-      "excluded": false,
-      "id": "20260925-pt-bilhetes-para-sevilha-esgotados",
-      "status": "on_sale",
-      "subcategory": "FC Porto",
-      "title": "FC Porto - Notícias - Bilhetes para Sevilha esgotados — Real Betis-FC Porto joga-se às 20h00 de 14 de outubro no Estadio de La Cartuja",
-      "url": "https://www.fcporto.pt/pt/noticias/20260925-pt-bilhetes-para-sevilha-esgotados"
+    "e65bb43184604abc": {
+      "id": "e65bb43184604abc",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRHdOdTBUNjNpVzBSbmFqazlDSWU2ZEgtQ0NaalY5NlFDYVdFaDJvaWtHa0NKYWc5cm41SC1LaU1sLUV2cHZQUk5yNHFDY01fRzY1Y0FiWXFGSHZROHAza2Z4REVBZFlqdjM3eFUzR3dlT05JVTluOE9UTVR3cHpNS2hlWjdvS1R6UHFWa0JvYzF6b0dhYzBYZkZKX2tTcjlOR3dRNTRXUkQtOEFleHE0c0V2eVNiWFR0WUl6RHBoQnRUTmxUM2pLT2ptZm9uVWVBeHR5MUtERFZTbUxDRWJCemI2aEZGQ0tL?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 09:51:16 GMT",
+      "source": "SAPO",
+      "title": "Não conseguiu bilhetes para ver Portugal na Liga das Nações? O Continente pode ajudar nisso (mas apresse-se) - SAPO"
     },
-    "20260925-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-abc-braga": {
-      "excluded": true,
-      "id": "20260925-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-abc-braga",
-      "status": "on_sale",
-      "subcategory": "Andebol",
-      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-ABC Braga — Duelo em atraso da 2.ª jornada do Campeonato Nacional de Andebol disputa-se quarta-feira às 20h00 no Dragão Arena",
-      "url": "https://www.fcporto.pt/pt/noticias/20260925-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-abc-braga"
+    "e6f9120747ee4eb8": {
+      "id": "e6f9120747ee4eb8",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdFRGNXNIUVRpeHNkOFY5eEpmZU1manZqVXNadEtua0dMQlQzVDNzWFJfVWF6TzJ5TlliSWplWWtfRnN2XzJrcFZqRGNhRUdGMDFJSEdwZ2hLVG5pWU1hN0VfUUc3TzFNMVpWQ1E1M1ZONWhYTXk5bF9Cb0xpb004YUxkWF9aNG1VNGM2M0N0VU0zQk5jd1ZtYlRUczhlVXMtczJsSE9EV0hxWGlFMGdpSzdMUzZaNEdfcE9zZmgzY1A?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 20:33:47 GMT",
+      "source": "SAPO",
+      "title": "Bilhetes para o FC Porto-Académico Viseu na Allianz Cup a partir de 5 euros - SAPO"
     },
-    "20260928-pt-informacao-sobre-os-bilhetes-para-a-supertaca-de-voleibol": {
-      "excluded": true,
-      "id": "20260928-pt-informacao-sobre-os-bilhetes-para-a-supertaca-de-voleibol",
-      "status": "on_sale",
-      "subcategory": "Voleibol",
-      "title": "FC Porto - Notícias - Informação sobre os bilhetes para a Supertaça de voleibol — FC Porto mede forças com o SC Braga às 17h00 de sábado, em Santo Tirso",
-      "url": "https://www.fcporto.pt/pt/noticias/20260928-pt-informacao-sobre-os-bilhetes-para-a-supertaca-de-voleibol"
-    },
-    "20260928-pt-informacao-sobre-os-bilhetes-para-o-cs-maritimo-fc-porto": {
-      "excluded": false,
-      "id": "20260928-pt-informacao-sobre-os-bilhetes-para-o-cs-maritimo-fc-porto",
-      "status": "on_sale",
-      "subcategory": "FC Porto",
-      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o CS Marítimo-FC Porto — Disponíveis a partir das 10h00 desta terça-feira em bilhetes.fcporto.pt",
-      "url": "https://www.fcporto.pt/pt/noticias/20260928-pt-informacao-sobre-os-bilhetes-para-o-cs-maritimo-fc-porto"
-    },
-    "20260928-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-miramar-imperio": {
-      "excluded": true,
-      "id": "20260928-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-miramar-imperio",
-      "status": "on_sale",
-      "subcategory": "Futsal",
-      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-Miramar Império — 3.ª jornada da 3.ª Divisão de futsal disputa-se sábado às 15h00 no Dragão Arena",
-      "url": "https://www.fcporto.pt/pt/noticias/20260928-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-miramar-imperio"
-    },
-    "20260928-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-vitoria-sc": {
-      "excluded": true,
-      "id": "20260928-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-vitoria-sc",
-      "status": "on_sale",
-      "subcategory": "Andebol",
-      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-Vitória SC — 7.ª jornada do campeonato de andebol disputa-se sábado às 18h30 no Dragão Arena",
-      "url": "https://www.fcporto.pt/pt/noticias/20260928-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-vitoria-sc"
-    },
-    "20260929-pt-bilhetes-esgotados-para-a-madeira": {
-      "excluded": false,
-      "id": "20260929-pt-bilhetes-esgotados-para-a-madeira",
-      "status": "on_sale",
-      "subcategory": "FC Porto",
-      "title": "FC Porto - Notícias - Bilhetes esgotados para a Madeira — CS Marítimo-FC Porto, da 8.ª jornada da Liga, joga-se dia 10 de outubro às 18h00 no Funchal",
-      "url": "https://www.fcporto.pt/pt/noticias/20260929-pt-bilhetes-esgotados-para-a-madeira"
-    },
-    "20261001-pt-fc-porto-ssc-napoli-novos-bilhetes-disponiveis-esta-sexta-feira": {
-      "excluded": false,
-      "id": "20261001-pt-fc-porto-ssc-napoli-novos-bilhetes-disponiveis-esta-sexta-feira",
-      "status": "on_sale",
-      "subcategory": "FC Porto",
-      "title": "FC Porto - Notícias - FC Porto-SSC Napoli: novos bilhetes disponíveis esta sexta-feira — Segunda fase da venda arranca às 14h00",
-      "url": "https://www.fcporto.pt/pt/noticias/20261001-pt-fc-porto-ssc-napoli-novos-bilhetes-disponiveis-esta-sexta-feira"
-    },
-    "20261001-pt-informacao-sobre-os-bilhetes-para-o-fuechse-berlin-fc-porto": {
-      "excluded": true,
-      "id": "20261001-pt-informacao-sobre-os-bilhetes-para-o-fuechse-berlin-fc-porto",
-      "status": "on_sale",
-      "subcategory": "Andebol",
-      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o Füchse Berlin-FC Porto — 3.ª jornada da Liga dos Campeões de andebol joga-se dia 8 de outubro às 17h45 na Alemanha",
-      "url": "https://www.fcporto.pt/pt/noticias/20261001-pt-informacao-sobre-os-bilhetes-para-o-fuechse-berlin-fc-porto"
-    },
-    "20261002-pt-fc-porto-psv-ultimos-500-bilhetes-disponiveis": {
-      "excluded": false,
-      "id": "20261002-pt-fc-porto-psv-ultimos-500-bilhetes-disponiveis",
-      "status": "on_sale",
-      "subcategory": "FC Porto",
-      "title": "FC Porto - Notícias - FC Porto-PSV: últimos 500 bilhetes disponíveis — 3.ª jornada da Liga dos Campeões joga-se dia 20 de outubro no Estádio do Dragão",
-      "url": "https://www.fcporto.pt/pt/noticias/20261002-pt-fc-porto-psv-ultimos-500-bilhetes-disponiveis"
-    },
-    "20261002-pt-informacao-sobre-os-bilhetes-para-o-leixoes-sc-fc-porto-b": {
-      "excluded": true,
-      "id": "20261002-pt-informacao-sobre-os-bilhetes-para-o-leixoes-sc-fc-porto-b",
-      "status": "on_sale",
-      "subcategory": "FC Porto B",
-      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o Leixões SC-FC Porto B — 7.ª jornada da Segunda Liga joga-se dia 10 de outubro às 15h30 em Matosinhos",
-      "url": "https://www.fcporto.pt/pt/noticias/20261002-pt-informacao-sobre-os-bilhetes-para-o-leixoes-sc-fc-porto-b"
-    },
-    "20261006-pt-informacao-sobre-os-bilhetes-para-o-aa-sao-mamede-fc-porto": {
-      "excluded": true,
-      "id": "20261006-pt-informacao-sobre-os-bilhetes-para-o-aa-sao-mamede-fc-porto",
-      "status": "on_sale",
-      "subcategory": "Voleibol",
-      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o AA São Mamede-FC Porto — 1.ª jornada da Liga de voleibol joga-se domingo às 15h00 no Pavilhão Eduardo Soares",
-      "url": "https://www.fcporto.pt/pt/noticias/20261006-pt-informacao-sobre-os-bilhetes-para-o-aa-sao-mamede-fc-porto"
-    },
-    "20261006-pt-real-betis-fc-porto-ultimos-300-bilhetes-disponiveis": {
-      "excluded": false,
-      "id": "20261006-pt-real-betis-fc-porto-ultimos-300-bilhetes-disponiveis",
-      "status": "on_sale",
-      "subcategory": "FC Porto",
-      "title": "FC Porto - Notícias - Real Betis-FC Porto: últimos 300 bilhetes disponíveis — A partir das 10h00 desta quarta-feira",
-      "url": "https://www.fcporto.pt/pt/noticias/20261006-pt-real-betis-fc-porto-ultimos-300-bilhetes-disponiveis"
-    },
-    "20261007-pt-esgotado-o-ultimo-lote-de-bilhetes-para-sevilha": {
-      "excluded": false,
-      "id": "20261007-pt-esgotado-o-ultimo-lote-de-bilhetes-para-sevilha",
-      "status": "on_sale",
-      "subcategory": "FC Porto",
-      "title": "FC Porto - Notícias - Esgotado o último lote de bilhetes para Sevilha — Real Betis-FC Porto, da 2.ª jornada da Liga dos Campeões, joga-se dia 14 às 20h00 em Espanha",
-      "url": "https://www.fcporto.pt/pt/noticias/20261007-pt-esgotado-o-ultimo-lote-de-bilhetes-para-sevilha"
-    },
-    "20261007-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-benfica": {
-      "excluded": true,
-      "id": "20261007-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-benfica",
-      "status": "on_sale",
-      "subcategory": "Basquetebol",
-      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-Benfica — 2.ª jornada da Liga de basquetebol disputa-se às 15h00 de domingo no Dragão Arena",
-      "url": "https://www.fcporto.pt/pt/noticias/20261007-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-benfica"
-    },
-    "20261008-pt-fc-porto-ssc-napoli-novos-bilhetes-disponiveis-esta-sexta-feira": {
-      "excluded": false,
-      "id": "20261008-pt-fc-porto-ssc-napoli-novos-bilhetes-disponiveis-esta-sexta-feira",
-      "status": "on_sale",
-      "subcategory": "FC Porto",
-      "title": "FC Porto - Notícias - FC Porto-SSC Napoli: novos bilhetes disponíveis esta sexta-feira — 4.ª jornada da Liga dos Campeões joga-se dia 4 de novembro no Estádio do Dragão",
-      "url": "https://www.fcporto.pt/pt/noticias/20261008-pt-fc-porto-ssc-napoli-novos-bilhetes-disponiveis-esta-sexta-feira"
-    },
-    "20261008-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-fuechse-berlin": {
-      "excluded": true,
-      "id": "20261008-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-fuechse-berlin",
-      "status": "on_sale",
-      "subcategory": "Andebol",
-      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-Füchse Berlin — 4.ª jornada da Liga dos Campeões de andebol joga-se no Dragão Arena (quinta-feira, 19h45)",
-      "url": "https://www.fcporto.pt/pt/noticias/20261008-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-fuechse-berlin"
-    },
-    "20261009-pt-informacao-sobre-os-bilhetes-para-o-cp-esgueira-fc-porto": {
-      "excluded": true,
-      "id": "20261009-pt-informacao-sobre-os-bilhetes-para-o-cp-esgueira-fc-porto",
-      "status": "on_sale",
-      "subcategory": "Basquetebol",
-      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o CP Esgueira-FC Porto — 3.ª jornada da Liga Portuguesa de Basquetebol disputa-se às 21h00 de sexta-feira em Aveiro",
-      "url": "https://www.fcporto.pt/pt/noticias/20261009-pt-informacao-sobre-os-bilhetes-para-o-cp-esgueira-fc-porto"
-    },
-    "20261009-pt-informacao-sobre-os-bilhetes-para-o-leixoes-sc-fc-porto": {
-      "excluded": true,
-      "id": "20261009-pt-informacao-sobre-os-bilhetes-para-o-leixoes-sc-fc-porto",
-      "status": "on_sale",
-      "subcategory": "Futsal",
-      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o Leixões SC-FC Porto — 4.ª jornada do campeonato de futsal joga-se às 19h00 de sábado em Matosinhos",
-      "url": "https://www.fcporto.pt/pt/noticias/20261009-pt-informacao-sobre-os-bilhetes-para-o-leixoes-sc-fc-porto"
-    },
-    "20261011-pt-bilhetes-para-roterdao-a-venda-online": {
-      "excluded": false,
-      "id": "20261011-pt-bilhetes-para-roterdao-a-venda-online",
-      "status": "on_sale",
-      "subcategory": "FC Porto",
-      "title": "FC Porto - Notícias - Bilhetes para Roterdão à venda online — A partir das 12h00 desta segunda-feira",
-      "url": "https://www.fcporto.pt/pt/noticias/20261011-pt-bilhetes-para-roterdao-a-venda-online"
-    },
-    "20261012-pt-bilhetes-esgotados-para-roterdao": {
-      "excluded": false,
-      "id": "20261012-pt-bilhetes-esgotados-para-roterdao",
-      "status": "on_sale",
-      "subcategory": "FC Porto",
-      "title": "FC Porto - Notícias - Bilhetes esgotados para Roterdão — Feyenoord-FC Porto, da 5.ª jornada da Liga dos Campeões, joga-se dia 24 de novembro nos Países Baixos",
-      "url": "https://www.fcporto.pt/pt/noticias/20261012-pt-bilhetes-esgotados-para-roterdao"
-    },
-    "20261013-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-castelo-da-maia": {
-      "excluded": true,
-      "id": "20261013-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-castelo-da-maia",
-      "status": "on_sale",
-      "subcategory": "Voleibol",
-      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-Castêlo da Maia — 2.ª jornada da Liga de voleibol está marcada para sábado às 17h00 no Dragão Arena",
-      "url": "https://www.fcporto.pt/pt/noticias/20261013-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-castelo-da-maia"
-    },
-    "20261013-pt-informacao-sobre-os-bilhetes-para-o-povoa-ac-fc-porto": {
-      "excluded": true,
-      "id": "20261013-pt-informacao-sobre-os-bilhetes-para-o-povoa-ac-fc-porto",
-      "status": "on_sale",
-      "subcategory": "Andebol",
-      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o Póvoa AC-FC Porto — 9.ª jornada do campeonato de andebol disputa-se na Póvoa de Varzim (domingo, 15h00)",
-      "url": "https://www.fcporto.pt/pt/noticias/20261013-pt-informacao-sobre-os-bilhetes-para-o-povoa-ac-fc-porto"
-    },
-    "20261014-pt-novos-bilhetes-a-venda-para-a-liga-dos-campeoes": {
-      "excluded": false,
-      "id": "20261014-pt-novos-bilhetes-a-venda-para-a-liga-dos-campeoes",
-      "status": "on_sale",
-      "subcategory": "FC Porto",
-      "title": "FC Porto - Notícias - Novos bilhetes à venda para a Liga dos Campeões — FC Porto recebe o PSV Eindhoven (20 de outubro) e o SSC Napoli (4 de novembro) nas próximas jornadas da fase de liga",
-      "url": "https://www.fcporto.pt/pt/noticias/20261014-pt-novos-bilhetes-a-venda-para-a-liga-dos-campeoes"
-    },
-    "20261015-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-fundacion-cajasol-andalucia": {
-      "excluded": true,
-      "id": "20261015-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-fundacion-cajasol-andalucia",
-      "status": "on_sale",
-      "subcategory": "Voleibol",
-      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-Fundación Cajasol Andalucía — 1.ª mão da 1.ª ronda da Liga dos Campeões de voleibol está marcada para 22 de outubro às 20h00 no Dragão Arena",
-      "url": "https://www.fcporto.pt/pt/noticias/20261015-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-fundacion-cajasol-andalucia"
-    },
-    "20261015-pt-informacao-sobre-os-bilhetes-para-o-rio-ave-fc-porto": {
-      "excluded": true,
-      "id": "20261015-pt-informacao-sobre-os-bilhetes-para-o-rio-ave-fc-porto",
-      "status": "on_sale",
-      "subcategory": "Feminino",
-      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o Rio Ave-FC Porto — 4.ª jornada da Liga feminina joga-se sábado às 11h00 em Vila do Conde",
-      "url": "https://www.fcporto.pt/pt/noticias/20261015-pt-informacao-sobre-os-bilhetes-para-o-rio-ave-fc-porto"
-    },
-    "20261018-pt-bilhetes-para-liverpool-a-venda-online": {
-      "excluded": false,
-      "id": "20261018-pt-bilhetes-para-liverpool-a-venda-online",
-      "status": "on_sale",
-      "subcategory": "FC Porto",
-      "title": "FC Porto - Notícias - Bilhetes para Liverpool à venda online — A partir das 12h00 desta segunda-feira",
-      "url": "https://www.fcporto.pt/pt/noticias/20261018-pt-bilhetes-para-liverpool-a-venda-online"
-    },
-    "20261019-pt-bilhetes-esgotados-para-liverpool": {
-      "excluded": false,
-      "id": "20261019-pt-bilhetes-esgotados-para-liverpool",
-      "status": "on_sale",
-      "subcategory": "FC Porto",
-      "title": "FC Porto - Notícias - Bilhetes esgotados para Liverpool — Liverpool FC-FC Porto, da 6.ª jornada da Liga dos Campeões, joga-se dia 9 de dezembro em Inglaterra",
-      "url": "https://www.fcporto.pt/pt/noticias/20261019-pt-bilhetes-esgotados-para-liverpool"
-    },
-    "20261019-pt-hoquei-informacao-sobre-os-bilhetes-para-o-jogo-de-apresentacao": {
-      "excluded": true,
-      "id": "20261019-pt-hoquei-informacao-sobre-os-bilhetes-para-o-jogo-de-apresentacao",
-      "status": "on_sale",
-      "subcategory": "Hóquei em Patins",
-      "title": "FC Porto - Notícias - Hóquei: informação sobre os bilhetes para o jogo de apresentação — FC Porto-HC Braga joga-se sábado às 14h30 no Dragão Arena",
-      "url": "https://www.fcporto.pt/pt/noticias/20261019-pt-hoquei-informacao-sobre-os-bilhetes-para-o-jogo-de-apresentacao"
-    },
-    "20261019-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-gc-santo-tirso": {
-      "excluded": true,
-      "id": "20261019-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-gc-santo-tirso",
-      "status": "on_sale",
-      "subcategory": "Andebol",
-      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-GC Santo Tirso — 10.ª jornada do Campeonato Nacional de Andebol disputa-se sábado às 18h00 no Dragão Arena",
-      "url": "https://www.fcporto.pt/pt/noticias/20261019-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-gc-santo-tirso"
-    },
-    "20261019-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-vitoria-sc": {
-      "excluded": true,
-      "id": "20261019-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-vitoria-sc",
-      "status": "on_sale",
-      "subcategory": "Feminino",
-      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-Vitória SC — 5.ª jornada da Liga feminina disputa-se às 11h00 de sábado no Olival",
-      "url": "https://www.fcporto.pt/pt/noticias/20261019-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-vitoria-sc"
-    },
-    "20261020-pt-bilhetes-para-barcelos-a-venda-online": {
-      "excluded": false,
-      "id": "20261020-pt-bilhetes-para-barcelos-a-venda-online",
-      "status": "on_sale",
-      "subcategory": "FC Porto",
-      "title": "FC Porto - Notícias - Bilhetes para Barcelos à venda online — A partir das 12h00 desta quarta-feira",
-      "url": "https://www.fcporto.pt/pt/noticias/20261020-pt-bilhetes-para-barcelos-a-venda-online"
-    },
-    "20261020-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-b-ud-leiria": {
-      "excluded": true,
-      "id": "20261020-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-b-ud-leiria",
-      "status": "on_sale",
-      "subcategory": "FC Porto B",
-      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto B-UD Leiria — 8.ª jornada da Segunda Liga arranca às 15h30 de domingo no Olival",
-      "url": "https://www.fcporto.pt/pt/noticias/20261020-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-b-ud-leiria"
-    },
-    "20261020-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-cab-madeira": {
-      "excluded": true,
-      "id": "20261020-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-cab-madeira",
-      "status": "on_sale",
-      "subcategory": "Basquetebol",
-      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-CAB Madeira — 4.ª jornada da Liga de basquetebol disputa-se às 15h00 de domingo, no Dragão Arena",
-      "url": "https://www.fcporto.pt/pt/noticias/20261020-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-cab-madeira"
-    },
-    "20261021-pt-bilhetes-esgotados-para-barcelos": {
-      "excluded": false,
-      "id": "20261021-pt-bilhetes-esgotados-para-barcelos",
-      "status": "on_sale",
-      "subcategory": "FC Porto",
-      "title": "FC Porto - Notícias - Bilhetes esgotados para Barcelos — Gil Vicente-FC Porto, da 9.ª jornada da Liga Portugal, joga-se sábado às 20h30",
-      "url": "https://www.fcporto.pt/pt/noticias/20261021-pt-bilhetes-esgotados-para-barcelos"
-    },
-    "20261022-pt-informacao-sobre-os-bilhetes-para-o-cd-fiaes-fc-porto": {
-      "excluded": true,
-      "id": "20261022-pt-informacao-sobre-os-bilhetes-para-o-cd-fiaes-fc-porto",
-      "status": "on_sale",
-      "subcategory": "Voleibol",
-      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o CD Fiães-FC Porto — 3.ª jornada da Liga de voleibol joga-se sábado às 17h15 no Pavilhão Municipal de Fiães",
-      "url": "https://www.fcporto.pt/pt/noticias/20261022-pt-informacao-sobre-os-bilhetes-para-o-cd-fiaes-fc-porto"
-    },
-    "20261022-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-veszprem-hc": {
-      "excluded": true,
-      "id": "20261022-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-veszprem-hc",
-      "status": "on_sale",
-      "subcategory": "Andebol",
-      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-Veszprém HC — 6.ª jornada da Liga dos Campeões de andebol joga-se quarta-feira às 17h45 no Dragão Arena",
-      "url": "https://www.fcporto.pt/pt/noticias/20261022-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-veszprem-hc"
-    },
-    "20261026-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-cdrc-sao-martinho-mouros": {
-      "excluded": true,
-      "id": "20261026-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-cdrc-sao-martinho-mouros",
-      "status": "on_sale",
-      "subcategory": "Futsal",
-      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-CDRC São Martinho Mouros — 6.ª jornada da 3.ª Divisão de futsal disputa-se sábado às 17h00 no Dragão Arena",
-      "url": "https://www.fcporto.pt/pt/noticias/20261026-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-cdrc-sao-martinho-mouros"
-    },
-    "20261026-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-clube-kairos": {
-      "excluded": true,
-      "id": "20261026-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-clube-kairos",
-      "status": "on_sale",
-      "subcategory": "Voleibol",
-      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-Clube Kairós — 4.ª jornada da Liga de voleibol joga-se às 19h00 de sábado no Dragão Arena",
-      "url": "https://www.fcporto.pt/pt/noticias/20261026-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-clube-kairos"
-    },
-    "20261026-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-sporting": {
-      "excluded": true,
-      "id": "20261026-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-sporting",
-      "status": "on_sale",
-      "subcategory": "Andebol",
-      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-Sporting — 11.ª jornada do Campeonato Nacional de andebol disputa-se às 15h00 de domingo, no Dragão Arena",
-      "url": "https://www.fcporto.pt/pt/noticias/20261026-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-sporting"
-    },
-    "20261028-pt-informacao-sobre-os-bilhetes-para-o-ad-ovarense-fc-porto": {
-      "excluded": true,
-      "id": "20261028-pt-informacao-sobre-os-bilhetes-para-o-ad-ovarense-fc-porto",
-      "status": "on_sale",
-      "subcategory": "Basquetebol",
-      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o AD Ovarense-FC Porto — 5.ª jornada da Liga Portuguesa de Basquetebol joga-se na Arena de Ovar (sábado, 16h00)",
-      "url": "https://www.fcporto.pt/pt/noticias/20261028-pt-informacao-sobre-os-bilhetes-para-o-ad-ovarense-fc-porto"
+    "edc89c3384258a2e": {
+      "id": "edc89c3384258a2e",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ3FSQ1RreG5oNjhfUWNhdGRkaGNpWF9RU3F3UHBlWWs2aUV3M3IyUDhlOHg2aU9va1RoY1RIVmNXNlplVjlFamxFQ2R2VmZrVGxENWMxS2VNOWNOWnNDNjh2Tm5tUzkwYzJ3bVJFVk9lRmE1S2x0YUhKZjNCVDROSzNzR3VucmtpM0lmcWVHOVJfcDZkYy16UkYxUW4zRjFBVFpGOFRnUGwxMExMenJQbVlWQzAxNmdsT1JnWWJTMzlteUJzUmJTdVo1bEFPQdIByAFBVV95cUxQODJXRUYxOXpLdk96Y2pYeEVCNFh4clJid0tYcWk2enBLWm1sMG9OYVhvdE5RdTVtR2hqb21vUENRWGJoMU1uN094dEt6UU0zX1JfVUFsWUFTMkZONGdhazBZQmQ4TUNubzJLV3ZVWjEzTHNXSzJTR1BHOURFTHdxOWtqdkF5WWRWWjFZQWJSamY4QXlQYmxwd3Y4UU41Z0ZlN2VOcDhsTnlHdlZvV1J0UmNjVU5NU2FtU0EwVURxSkc3bFNMeFJ3Ug?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 16:00:21 GMT",
+      "source": "record.pt",
+      "title": "CONTINENTE COLOCA HOJE À VENDA BILHETES PARA O PRÓXIMO JOGO DA SELEÇÃO NACIONAL - record.pt"
     }
   }
 }

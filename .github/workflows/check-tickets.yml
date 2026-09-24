@@ -2,10 +2,16 @@ name: check-tickets
 
 on:
   schedule:
-    # Every 15 minutes (GitHub minimum effective granularity ~5 min).
-    # Continente gives NO advance warning, so frequent polling matters.
+    # Every 15 minutes. NOTE: GitHub can delay scheduled runs (often several
+    # minutes) and only honours schedules on the DEFAULT branch. A brand-new
+    # schedule can also take ~1h to start firing. "Run workflow" below lets
+    # you test immediately.
     - cron: "*/15 * * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "state.json"
 
 permissions:
   contents: write
@@ -13,6 +19,7 @@ permissions:
 jobs:
   check:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
 
@@ -22,15 +29,27 @@ jobs:
           python-version: "3.12"
 
       - name: Check ticket sales
+        id: check
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python3 check.py --once
+          APPSTOCK_HEADERS_JSON: ${{ secrets.APPSTOCK_HEADERS_JSON }}
+          APPSTOCK_BODY: ${{ secrets.APPSTOCK_BODY }}
+        run: |
+          python3 check.py --once | tee /tmp/summary.json
+          {
+            echo "## 🎟️ Check result ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+            echo '```json'
+            tail -c 3000 /tmp/summary.json
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
 
       - name: Persist state.json
+        if: always()
         run: |
           git config user.name "ticket-bot"
           git config user.email "ticket-bot@users.noreply.github.com"
+          git pull --rebase --autostash origin main || true
           git add state.json
-          git diff --cached --quiet || git commit -m "bot: update state.json [skip ci]"
-          git push
+          git diff --cached --quiet && echo "no state changes" || git commit -m "bot: update state.json [skip ci]"
+          git push || (git pull --rebase origin main && git push)

@@ -6,15 +6,15 @@ import os
 
 def load_state(path: str) -> dict:
     if not os.path.exists(path):
-        return {"continente": {}, "fcporto": {}}
+        return {"continente": {}, "fcporto": {}, "press": {}, "appstock": {}}
     try:
         with open(path, encoding="utf-8") as f:
             data = json.load(f)
-        data.setdefault("continente", {})
-        data.setdefault("fcporto", {})
+        for key in ("continente", "fcporto", "press", "appstock"):
+            data.setdefault(key, {})
         return data
     except (json.JSONDecodeError, OSError):
-        return {"continente": {}, "fcporto": {}}
+        return {"continente": {}, "fcporto": {}, "press": {}, "appstock": {}}
 
 
 def save_state(path: str, state: dict) -> None:

@@ -60,3 +60,30 @@ def fmt_fcporto(item: dict) -> str:
         f"🔗 <a href=\"{item['url']}\">Ver anúncio oficial</a>\n"
         f"🎫 <a href=\"https://bilhetes.fcporto.pt/\">bilhetes.fcporto.pt</a>"
     )
+
+
+def fmt_press(item: dict) -> str:
+    src = f" ({item['source']})" if item.get("source") else ""
+    return (
+        "🗞️ <b>Bilhetes nas notícias</b>\n"
+        f"📰 {item['title']}{src}\n"
+        f"🔗 <a href=\"{item['link']}\">Ler notícia</a>"
+    )
+
+
+def fmt_appstock(watch_id: str, snippet: str) -> str:
+    return (
+        "📱 <b>STOCK NA APP — disponível!</b>\n"
+        f"🎫 {watch_id}\n"
+        f"ℹ️ {snippet}\n"
+        "⚡ Abre a App Cartão Continente já e compra."
+    )
+
+
+def fmt_error(errors: list[str]) -> str:
+    lines = "\n".join(f"• {e}" for e in errors[:8])
+    return (
+        "⚠️ <b>Bot de bilhetes: falha numa fonte</b>\n"
+        f"{lines}\n"
+        "Vê o run no GitHub Actions para detalhes."
+    )

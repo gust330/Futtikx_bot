@@ -9,5 +9,26 @@
   "state_file": "state.json",
   "alert_on_coming_soon": true,
   "alert_on_sale": true,
-  "request_timeout": 30
+  "alert_on_error": true,
+  "heartbeat": false,
+  "request_timeout": 30,
+  "press": {
+    "enabled": true,
+    "feeds": [
+      "https://news.google.com/rss/search?q=Continente+bilhetes+Sele%C3%A7%C3%A3o+when%3A7d&hl=pt-PT&gl=PT&ceid=PT%3Apt",
+      "https://news.google.com/rss/search?q=%22FC+Porto%22+bilhetes+venda+when%3A7d&hl=pt-PT&gl=PT&ceid=PT%3Apt"
+    ],
+    "required_keywords": ["bilhete"],
+    "exclude_keywords": ["reclama", "queixa", "revenda", "andebol", "basquetebol", "voleibol", "feminino", "fpb"],
+    "max_items": 30
+  },
+  "appstock": {
+    "enabled": false,
+    "url": "",
+    "method": "GET",
+    "headers_env": "APPSTOCK_HEADERS_JSON",
+    "body_env": "APPSTOCK_BODY",
+    "timeout": 30,
+    "watches": []
+  }
 }

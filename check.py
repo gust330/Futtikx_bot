@@ -26,10 +26,15 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), "src"))
 
 from continente import check_continente  # noqa: E402
 from fcporto import check_fcporto  # noqa: E402
+from press import check_press  # noqa: E402
+from appstock import check_appstock  # noqa: E402
 from notifier import (  # noqa: E402
+    fmt_appstock,
     fmt_continente_new,
     fmt_continente_sale,
+    fmt_error,
     fmt_fcporto,
+    fmt_press,
     send_telegram,
 )
 from state import load_state, save_state  # noqa: E402
@@ -112,15 +117,66 @@ def main() -> int:
         summary["errors"].append(f"fcporto: {e}")
         traceback.print_exc()
 
-    # ---- 3. Notify ----
+    # ---- 3. Press (Google News RSS early signal) ----
+    try:
+        pcfg = cfg.get("press", {})
+        if pcfg.get("enabled"):
+            for it in check_press(
+                pcfg.get("feeds", []),
+                pcfg.get("required_keywords", ["bilhete"]),
+                pcfg.get("exclude_keywords", []),
+                timeout=timeout,
+                max_items=int(pcfg.get("max_items", 30)),
+            ):
+                if it.get("error"):
+                    summary["errors"].append(f"press feed: {it['error'][:120]}")
+                    continue
+                is_new = it["id"] not in state.setdefault("press", {})
+                summary.setdefault("press", []).append(
+                    {"id": it["id"], "new": is_new, "title": it["title"][:80]}
+                )
+                if is_new and not args.check_only:
+                    events.append(fmt_press(it))
+                state["press"][it["id"]] = it
+            # cap stored press items so state.json doesn't grow forever
+            if len(state.get("press", {})) > 300:
+                keep = sorted(state["press"]) [-300:]
+                state["press"] = {k: state["press"][k] for k in keep}
+    except Exception as e:  # noqa: BLE001
+        summary["errors"].append(f"press: {e}")
+        traceback.print_exc()
+
+    # ---- 4. App stock (real availability, user-captured endpoint) ----
+    try:
+        acfg = cfg.get("appstock", {})
+        if acfg.get("enabled") and acfg.get("url"):
+            for w in check_appstock(acfg):
+                prev = state.setdefault("appstock", {}).get(w["id"])
+                prev_av = prev.get("available") if isinstance(prev, dict) else None
+                summary.setdefault("appstock", []).append(
+                    {"id": w["id"], "available": w["available"], "prev": prev_av}
+                )
+                if w["available"] and prev_av is not True and not args.check_only:
+                    events.append(fmt_appstock(w["id"], w["raw_snippet"]))
+                state["appstock"][w["id"]] = w
+    except Exception as e:  # noqa: BLE001
+        summary["errors"].append(f"appstock: {e}")
+        traceback.print_exc()
+
+    # ---- 5. Notify ----
     sent = 0
-    if events and not args.check_only:
+    notify = list(events)
+    if summary["errors"] and cfg.get("alert_on_error") and not args.check_only:
+        notify.append(fmt_error(summary["errors"]))
+    if cfg.get("heartbeat") and not args.check_only:
+        notify.append("✅ Bot check ok — sem novidades.")
+    if notify and not args.check_only:
         if not bot_token or not chat_id:
             print("WARN: no Telegram creds, printing events instead:")
-            for ev in events:
+            for ev in notify:
                 print("----\n" + ev)
         else:
-            for ev in events:
+            for ev in notify:
                 try:
                     send_telegram(bot_token, chat_id, ev)
                     sent += 1

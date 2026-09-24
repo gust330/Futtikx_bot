@@ -57,6 +57,30 @@
       "subcategory": "Feminino",
       "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-Racing Power FC — 3.ª jornada da Liga feminina disputa-se às 11h00 de domingo no Olival",
       "url": "https://www.fcporto.pt/pt/noticias/20260923-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-racing-power-fc"
+    },
+    "20260924-pt-bilhetes-a-venda-para-o-fc-porto-cd-nacional": {
+      "excluded": false,
+      "id": "20260924-pt-bilhetes-a-venda-para-o-fc-porto-cd-nacional",
+      "status": "on_sale",
+      "subcategory": "FC Porto",
+      "title": "FC Porto - Notícias - Bilhetes à venda para o FC Porto-CD Nacional — FC Porto defronta os madeirenses na 16.ª jornada da Liga",
+      "url": "https://www.fcporto.pt/pt/noticias/20260924-pt-bilhetes-a-venda-para-o-fc-porto-cd-nacional"
+    },
+    "20260924-pt-bilhetes-a-venda-para-o-fc-porto-estrela-da-amadora": {
+      "excluded": false,
+      "id": "20260924-pt-bilhetes-a-venda-para-o-fc-porto-estrela-da-amadora",
+      "status": "on_sale",
+      "subcategory": "FC Porto",
+      "title": "FC Porto - Notícias - Bilhetes à venda para o FC Porto-Estrela da Amadora — FC Porto defronta os lisboetas na 14.ª jornada da Liga",
+      "url": "https://www.fcporto.pt/pt/noticias/20260924-pt-bilhetes-a-venda-para-o-fc-porto-estrela-da-amadora"
+    },
+    "20260924-pt-bilhetes-para-sevilha-a-venda-online": {
+      "excluded": false,
+      "id": "20260924-pt-bilhetes-para-sevilha-a-venda-online",
+      "status": "on_sale",
+      "subcategory": "FC Porto",
+      "title": "FC Porto - Notícias - Bilhetes para Sevilha à venda online — A partir das 10h00 desta sexta-feira",
+      "url": "https://www.fcporto.pt/pt/noticias/20260924-pt-bilhetes-para-sevilha-a-venda-online"
     }
   }
 }

@@ -105,6 +105,38 @@
       "subcategory": "Andebol",
       "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-ABC Braga — Duelo em atraso da 2.ª jornada do Campeonato Nacional de Andebol disputa-se quarta-feira às 20h00 no Dragão Arena",
       "url": "https://www.fcporto.pt/pt/noticias/20260925-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-abc-braga"
+    },
+    "20260928-pt-informacao-sobre-os-bilhetes-para-a-supertaca-de-voleibol": {
+      "excluded": true,
+      "id": "20260928-pt-informacao-sobre-os-bilhetes-para-a-supertaca-de-voleibol",
+      "status": "on_sale",
+      "subcategory": "Voleibol",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para a Supertaça de voleibol — FC Porto mede forças com o SC Braga às 17h00 de sábado, em Santo Tirso",
+      "url": "https://www.fcporto.pt/pt/noticias/20260928-pt-informacao-sobre-os-bilhetes-para-a-supertaca-de-voleibol"
+    },
+    "20260928-pt-informacao-sobre-os-bilhetes-para-o-cs-maritimo-fc-porto": {
+      "excluded": false,
+      "id": "20260928-pt-informacao-sobre-os-bilhetes-para-o-cs-maritimo-fc-porto",
+      "status": "on_sale",
+      "subcategory": "FC Porto",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o CS Marítimo-FC Porto — Disponíveis a partir das 10h00 desta terça-feira em bilhetes.fcporto.pt",
+      "url": "https://www.fcporto.pt/pt/noticias/20260928-pt-informacao-sobre-os-bilhetes-para-o-cs-maritimo-fc-porto"
+    },
+    "20260928-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-miramar-imperio": {
+      "excluded": true,
+      "id": "20260928-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-miramar-imperio",
+      "status": "on_sale",
+      "subcategory": "Futsal",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-Miramar Império — 3.ª jornada da 3.ª Divisão de futsal disputa-se sábado às 15h00 no Dragão Arena",
+      "url": "https://www.fcporto.pt/pt/noticias/20260928-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-miramar-imperio"
+    },
+    "20260928-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-vitoria-sc": {
+      "excluded": true,
+      "id": "20260928-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-vitoria-sc",
+      "status": "on_sale",
+      "subcategory": "Andebol",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-Vitória SC — 7.ª jornada do campeonato de andebol disputa-se sábado às 18h30 no Dragão Arena",
+      "url": "https://www.fcporto.pt/pt/noticias/20260928-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-vitoria-sc"
     }
   }
 }

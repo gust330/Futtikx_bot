@@ -161,6 +161,22 @@
       "subcategory": "Andebol",
       "title": "FC Porto - Notícias - Informação sobre os bilhetes para o Füchse Berlin-FC Porto — 3.ª jornada da Liga dos Campeões de andebol joga-se dia 8 de outubro às 17h45 na Alemanha",
       "url": "https://www.fcporto.pt/pt/noticias/20261001-pt-informacao-sobre-os-bilhetes-para-o-fuechse-berlin-fc-porto"
+    },
+    "20261002-pt-fc-porto-psv-ultimos-500-bilhetes-disponiveis": {
+      "excluded": false,
+      "id": "20261002-pt-fc-porto-psv-ultimos-500-bilhetes-disponiveis",
+      "status": "on_sale",
+      "subcategory": "FC Porto",
+      "title": "FC Porto - Notícias - FC Porto-PSV: últimos 500 bilhetes disponíveis — 3.ª jornada da Liga dos Campeões joga-se dia 20 de outubro no Estádio do Dragão",
+      "url": "https://www.fcporto.pt/pt/noticias/20261002-pt-fc-porto-psv-ultimos-500-bilhetes-disponiveis"
+    },
+    "20261002-pt-informacao-sobre-os-bilhetes-para-o-leixoes-sc-fc-porto-b": {
+      "excluded": true,
+      "id": "20261002-pt-informacao-sobre-os-bilhetes-para-o-leixoes-sc-fc-porto-b",
+      "status": "on_sale",
+      "subcategory": "FC Porto B",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o Leixões SC-FC Porto B — 7.ª jornada da Segunda Liga joga-se dia 10 de outubro às 15h30 em Matosinhos",
+      "url": "https://www.fcporto.pt/pt/noticias/20261002-pt-informacao-sobre-os-bilhetes-para-o-leixoes-sc-fc-porto-b"
     }
   }
 }

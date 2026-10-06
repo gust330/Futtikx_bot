@@ -177,6 +177,22 @@
       "subcategory": "FC Porto B",
       "title": "FC Porto - Notícias - Informação sobre os bilhetes para o Leixões SC-FC Porto B — 7.ª jornada da Segunda Liga joga-se dia 10 de outubro às 15h30 em Matosinhos",
       "url": "https://www.fcporto.pt/pt/noticias/20261002-pt-informacao-sobre-os-bilhetes-para-o-leixoes-sc-fc-porto-b"
+    },
+    "20261006-pt-informacao-sobre-os-bilhetes-para-o-aa-sao-mamede-fc-porto": {
+      "excluded": true,
+      "id": "20261006-pt-informacao-sobre-os-bilhetes-para-o-aa-sao-mamede-fc-porto",
+      "status": "on_sale",
+      "subcategory": "Voleibol",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o AA São Mamede-FC Porto — 1.ª jornada da Liga de voleibol joga-se domingo às 15h00 no Pavilhão Eduardo Soares",
+      "url": "https://www.fcporto.pt/pt/noticias/20261006-pt-informacao-sobre-os-bilhetes-para-o-aa-sao-mamede-fc-porto"
+    },
+    "20261006-pt-real-betis-fc-porto-ultimos-300-bilhetes-disponiveis": {
+      "excluded": false,
+      "id": "20261006-pt-real-betis-fc-porto-ultimos-300-bilhetes-disponiveis",
+      "status": "on_sale",
+      "subcategory": "FC Porto",
+      "title": "FC Porto - Notícias - Real Betis-FC Porto: últimos 300 bilhetes disponíveis — A partir das 10h00 desta quarta-feira",
+      "url": "https://www.fcporto.pt/pt/noticias/20261006-pt-real-betis-fc-porto-ultimos-300-bilhetes-disponiveis"
     }
   }
 }

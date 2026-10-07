@@ -201,6 +201,14 @@
       "subcategory": "FC Porto",
       "title": "FC Porto - Notícias - Esgotado o último lote de bilhetes para Sevilha — Real Betis-FC Porto, da 2.ª jornada da Liga dos Campeões, joga-se dia 14 às 20h00 em Espanha",
       "url": "https://www.fcporto.pt/pt/noticias/20261007-pt-esgotado-o-ultimo-lote-de-bilhetes-para-sevilha"
+    },
+    "20261007-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-benfica": {
+      "excluded": true,
+      "id": "20261007-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-benfica",
+      "status": "on_sale",
+      "subcategory": "Basquetebol",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-Benfica — 2.ª jornada da Liga de basquetebol disputa-se às 15h00 de domingo no Dragão Arena",
+      "url": "https://www.fcporto.pt/pt/noticias/20261007-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-benfica"
     }
   }
 }

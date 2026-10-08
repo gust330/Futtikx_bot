@@ -209,6 +209,22 @@
       "subcategory": "Basquetebol",
       "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-Benfica — 2.ª jornada da Liga de basquetebol disputa-se às 15h00 de domingo no Dragão Arena",
       "url": "https://www.fcporto.pt/pt/noticias/20261007-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-benfica"
+    },
+    "20261008-pt-fc-porto-ssc-napoli-novos-bilhetes-disponiveis-esta-sexta-feira": {
+      "excluded": false,
+      "id": "20261008-pt-fc-porto-ssc-napoli-novos-bilhetes-disponiveis-esta-sexta-feira",
+      "status": "on_sale",
+      "subcategory": "FC Porto",
+      "title": "FC Porto - Notícias - FC Porto-SSC Napoli: novos bilhetes disponíveis esta sexta-feira — 4.ª jornada da Liga dos Campeões joga-se dia 4 de novembro no Estádio do Dragão",
+      "url": "https://www.fcporto.pt/pt/noticias/20261008-pt-fc-porto-ssc-napoli-novos-bilhetes-disponiveis-esta-sexta-feira"
+    },
+    "20261008-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-fuechse-berlin": {
+      "excluded": true,
+      "id": "20261008-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-fuechse-berlin",
+      "status": "on_sale",
+      "subcategory": "Andebol",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-Füchse Berlin — 4.ª jornada da Liga dos Campeões de andebol joga-se no Dragão Arena (quinta-feira, 19h45)",
+      "url": "https://www.fcporto.pt/pt/noticias/20261008-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-fuechse-berlin"
     }
   }
 }

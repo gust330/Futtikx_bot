@@ -225,6 +225,22 @@
       "subcategory": "Andebol",
       "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-Füchse Berlin — 4.ª jornada da Liga dos Campeões de andebol joga-se no Dragão Arena (quinta-feira, 19h45)",
       "url": "https://www.fcporto.pt/pt/noticias/20261008-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-fuechse-berlin"
+    },
+    "20261009-pt-informacao-sobre-os-bilhetes-para-o-cp-esgueira-fc-porto": {
+      "excluded": true,
+      "id": "20261009-pt-informacao-sobre-os-bilhetes-para-o-cp-esgueira-fc-porto",
+      "status": "on_sale",
+      "subcategory": "Basquetebol",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o CP Esgueira-FC Porto — 3.ª jornada da Liga Portuguesa de Basquetebol disputa-se às 21h00 de sexta-feira em Aveiro",
+      "url": "https://www.fcporto.pt/pt/noticias/20261009-pt-informacao-sobre-os-bilhetes-para-o-cp-esgueira-fc-porto"
+    },
+    "20261009-pt-informacao-sobre-os-bilhetes-para-o-leixoes-sc-fc-porto": {
+      "excluded": true,
+      "id": "20261009-pt-informacao-sobre-os-bilhetes-para-o-leixoes-sc-fc-porto",
+      "status": "on_sale",
+      "subcategory": "Futsal",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o Leixões SC-FC Porto — 4.ª jornada do campeonato de futsal joga-se às 19h00 de sábado em Matosinhos",
+      "url": "https://www.fcporto.pt/pt/noticias/20261009-pt-informacao-sobre-os-bilhetes-para-o-leixoes-sc-fc-porto"
     }
   }
 }

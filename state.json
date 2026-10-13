@@ -257,6 +257,22 @@
       "subcategory": "FC Porto",
       "title": "FC Porto - Notícias - Bilhetes esgotados para Roterdão — Feyenoord-FC Porto, da 5.ª jornada da Liga dos Campeões, joga-se dia 24 de novembro nos Países Baixos",
       "url": "https://www.fcporto.pt/pt/noticias/20261012-pt-bilhetes-esgotados-para-roterdao"
+    },
+    "20261013-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-castelo-da-maia": {
+      "excluded": true,
+      "id": "20261013-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-castelo-da-maia",
+      "status": "on_sale",
+      "subcategory": "Voleibol",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-Castêlo da Maia — 2.ª jornada da Liga de voleibol está marcada para sábado às 17h00 no Dragão Arena",
+      "url": "https://www.fcporto.pt/pt/noticias/20261013-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-castelo-da-maia"
+    },
+    "20261013-pt-informacao-sobre-os-bilhetes-para-o-povoa-ac-fc-porto": {
+      "excluded": true,
+      "id": "20261013-pt-informacao-sobre-os-bilhetes-para-o-povoa-ac-fc-porto",
+      "status": "on_sale",
+      "subcategory": "Andebol",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o Póvoa AC-FC Porto — 9.ª jornada do campeonato de andebol disputa-se na Póvoa de Varzim (domingo, 15h00)",
+      "url": "https://www.fcporto.pt/pt/noticias/20261013-pt-informacao-sobre-os-bilhetes-para-o-povoa-ac-fc-porto"
     }
   }
 }

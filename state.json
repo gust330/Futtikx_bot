@@ -281,6 +281,22 @@
       "subcategory": "FC Porto",
       "title": "FC Porto - Notícias - Novos bilhetes à venda para a Liga dos Campeões — FC Porto recebe o PSV Eindhoven (20 de outubro) e o SSC Napoli (4 de novembro) nas próximas jornadas da fase de liga",
       "url": "https://www.fcporto.pt/pt/noticias/20261014-pt-novos-bilhetes-a-venda-para-a-liga-dos-campeoes"
+    },
+    "20261015-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-fundacion-cajasol-andalucia": {
+      "excluded": true,
+      "id": "20261015-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-fundacion-cajasol-andalucia",
+      "status": "on_sale",
+      "subcategory": "Voleibol",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-Fundación Cajasol Andalucía — 1.ª mão da 1.ª ronda da Liga dos Campeões de voleibol está marcada para 22 de outubro às 20h00 no Dragão Arena",
+      "url": "https://www.fcporto.pt/pt/noticias/20261015-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-fundacion-cajasol-andalucia"
+    },
+    "20261015-pt-informacao-sobre-os-bilhetes-para-o-rio-ave-fc-porto": {
+      "excluded": true,
+      "id": "20261015-pt-informacao-sobre-os-bilhetes-para-o-rio-ave-fc-porto",
+      "status": "on_sale",
+      "subcategory": "Feminino",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o Rio Ave-FC Porto — 4.ª jornada da Liga feminina joga-se sábado às 11h00 em Vila do Conde",
+      "url": "https://www.fcporto.pt/pt/noticias/20261015-pt-informacao-sobre-os-bilhetes-para-o-rio-ave-fc-porto"
     }
   }
 }

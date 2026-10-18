@@ -297,6 +297,14 @@
       "subcategory": "Feminino",
       "title": "FC Porto - Notícias - Informação sobre os bilhetes para o Rio Ave-FC Porto — 4.ª jornada da Liga feminina joga-se sábado às 11h00 em Vila do Conde",
       "url": "https://www.fcporto.pt/pt/noticias/20261015-pt-informacao-sobre-os-bilhetes-para-o-rio-ave-fc-porto"
+    },
+    "20261018-pt-bilhetes-para-liverpool-a-venda-online": {
+      "excluded": false,
+      "id": "20261018-pt-bilhetes-para-liverpool-a-venda-online",
+      "status": "on_sale",
+      "subcategory": "FC Porto",
+      "title": "FC Porto - Notícias - Bilhetes para Liverpool à venda online — A partir das 12h00 desta segunda-feira",
+      "url": "https://www.fcporto.pt/pt/noticias/20261018-pt-bilhetes-para-liverpool-a-venda-online"
     }
   }
 }

@@ -306,6 +306,14 @@
       "title": "FC Porto - Notícias - Bilhetes para Liverpool à venda online — A partir das 12h00 desta segunda-feira",
       "url": "https://www.fcporto.pt/pt/noticias/20261018-pt-bilhetes-para-liverpool-a-venda-online"
     },
+    "20261019-pt-bilhetes-esgotados-para-liverpool": {
+      "excluded": false,
+      "id": "20261019-pt-bilhetes-esgotados-para-liverpool",
+      "status": "on_sale",
+      "subcategory": "FC Porto",
+      "title": "FC Porto - Notícias - Bilhetes esgotados para Liverpool — Liverpool FC-FC Porto, da 6.ª jornada da Liga dos Campeões, joga-se dia 9 de dezembro em Inglaterra",
+      "url": "https://www.fcporto.pt/pt/noticias/20261019-pt-bilhetes-esgotados-para-liverpool"
+    },
     "20261019-pt-hoquei-informacao-sobre-os-bilhetes-para-o-jogo-de-apresentacao": {
       "excluded": true,
       "id": "20261019-pt-hoquei-informacao-sobre-os-bilhetes-para-o-jogo-de-apresentacao",
@@ -313,6 +321,14 @@
       "subcategory": "Hóquei em Patins",
       "title": "FC Porto - Notícias - Hóquei: informação sobre os bilhetes para o jogo de apresentação — FC Porto-HC Braga joga-se sábado às 14h30 no Dragão Arena",
       "url": "https://www.fcporto.pt/pt/noticias/20261019-pt-hoquei-informacao-sobre-os-bilhetes-para-o-jogo-de-apresentacao"
+    },
+    "20261019-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-gc-santo-tirso": {
+      "excluded": true,
+      "id": "20261019-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-gc-santo-tirso",
+      "status": "on_sale",
+      "subcategory": "Andebol",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-GC Santo Tirso — 10.ª jornada do Campeonato Nacional de Andebol disputa-se sábado às 18h00 no Dragão Arena",
+      "url": "https://www.fcporto.pt/pt/noticias/20261019-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-gc-santo-tirso"
     },
     "20261019-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-vitoria-sc": {
       "excluded": true,

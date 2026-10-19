@@ -305,6 +305,22 @@
       "subcategory": "FC Porto",
       "title": "FC Porto - Notícias - Bilhetes para Liverpool à venda online — A partir das 12h00 desta segunda-feira",
       "url": "https://www.fcporto.pt/pt/noticias/20261018-pt-bilhetes-para-liverpool-a-venda-online"
+    },
+    "20261019-pt-hoquei-informacao-sobre-os-bilhetes-para-o-jogo-de-apresentacao": {
+      "excluded": true,
+      "id": "20261019-pt-hoquei-informacao-sobre-os-bilhetes-para-o-jogo-de-apresentacao",
+      "status": "on_sale",
+      "subcategory": "Hóquei em Patins",
+      "title": "FC Porto - Notícias - Hóquei: informação sobre os bilhetes para o jogo de apresentação — FC Porto-HC Braga joga-se sábado às 14h30 no Dragão Arena",
+      "url": "https://www.fcporto.pt/pt/noticias/20261019-pt-hoquei-informacao-sobre-os-bilhetes-para-o-jogo-de-apresentacao"
+    },
+    "20261019-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-vitoria-sc": {
+      "excluded": true,
+      "id": "20261019-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-vitoria-sc",
+      "status": "on_sale",
+      "subcategory": "Feminino",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-Vitória SC — 5.ª jornada da Liga feminina disputa-se às 11h00 de sábado no Olival",
+      "url": "https://www.fcporto.pt/pt/noticias/20261019-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-vitoria-sc"
     }
   }
 }

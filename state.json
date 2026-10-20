@@ -338,6 +338,14 @@
       "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-Vitória SC — 5.ª jornada da Liga feminina disputa-se às 11h00 de sábado no Olival",
       "url": "https://www.fcporto.pt/pt/noticias/20261019-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-vitoria-sc"
     },
+    "20261020-pt-bilhetes-para-barcelos-a-venda-online": {
+      "excluded": false,
+      "id": "20261020-pt-bilhetes-para-barcelos-a-venda-online",
+      "status": "on_sale",
+      "subcategory": "FC Porto",
+      "title": "FC Porto - Notícias - Bilhetes para Barcelos à venda online — A partir das 12h00 desta quarta-feira",
+      "url": "https://www.fcporto.pt/pt/noticias/20261020-pt-bilhetes-para-barcelos-a-venda-online"
+    },
     "20261020-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-b-ud-leiria": {
       "excluded": true,
       "id": "20261020-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-b-ud-leiria",
@@ -345,6 +353,14 @@
       "subcategory": "FC Porto B",
       "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto B-UD Leiria — 8.ª jornada da Segunda Liga arranca às 15h30 de domingo no Olival",
       "url": "https://www.fcporto.pt/pt/noticias/20261020-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-b-ud-leiria"
+    },
+    "20261020-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-cab-madeira": {
+      "excluded": true,
+      "id": "20261020-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-cab-madeira",
+      "status": "on_sale",
+      "subcategory": "Basquetebol",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-CAB Madeira — 4.ª jornada da Liga de basquetebol disputa-se às 15h00 de domingo, no Dragão Arena",
+      "url": "https://www.fcporto.pt/pt/noticias/20261020-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-cab-madeira"
     }
   }
 }

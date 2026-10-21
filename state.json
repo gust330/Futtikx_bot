@@ -361,6 +361,14 @@
       "subcategory": "Basquetebol",
       "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-CAB Madeira — 4.ª jornada da Liga de basquetebol disputa-se às 15h00 de domingo, no Dragão Arena",
       "url": "https://www.fcporto.pt/pt/noticias/20261020-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-cab-madeira"
+    },
+    "20261021-pt-bilhetes-esgotados-para-barcelos": {
+      "excluded": false,
+      "id": "20261021-pt-bilhetes-esgotados-para-barcelos",
+      "status": "on_sale",
+      "subcategory": "FC Porto",
+      "title": "FC Porto - Notícias - Bilhetes esgotados para Barcelos — Gil Vicente-FC Porto, da 9.ª jornada da Liga Portugal, joga-se sábado às 20h30",
+      "url": "https://www.fcporto.pt/pt/noticias/20261021-pt-bilhetes-esgotados-para-barcelos"
     }
   }
 }

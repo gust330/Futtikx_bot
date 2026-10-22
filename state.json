@@ -369,6 +369,22 @@
       "subcategory": "FC Porto",
       "title": "FC Porto - Notícias - Bilhetes esgotados para Barcelos — Gil Vicente-FC Porto, da 9.ª jornada da Liga Portugal, joga-se sábado às 20h30",
       "url": "https://www.fcporto.pt/pt/noticias/20261021-pt-bilhetes-esgotados-para-barcelos"
+    },
+    "20261022-pt-informacao-sobre-os-bilhetes-para-o-cd-fiaes-fc-porto": {
+      "excluded": true,
+      "id": "20261022-pt-informacao-sobre-os-bilhetes-para-o-cd-fiaes-fc-porto",
+      "status": "on_sale",
+      "subcategory": "Voleibol",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o CD Fiães-FC Porto — 3.ª jornada da Liga de voleibol joga-se sábado às 17h15 no Pavilhão Municipal de Fiães",
+      "url": "https://www.fcporto.pt/pt/noticias/20261022-pt-informacao-sobre-os-bilhetes-para-o-cd-fiaes-fc-porto"
+    },
+    "20261022-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-veszprem-hc": {
+      "excluded": true,
+      "id": "20261022-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-veszprem-hc",
+      "status": "on_sale",
+      "subcategory": "Andebol",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-Veszprém HC — 6.ª jornada da Liga dos Campeões de andebol joga-se quarta-feira às 17h45 no Dragão Arena",
+      "url": "https://www.fcporto.pt/pt/noticias/20261022-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-veszprem-hc"
     }
   }
 }

@@ -26,6 +26,22 @@
     }
   },
   "fcporto": {
+    "20260910-pt-bilhetes-a-venda-para-o-fc-porto-estoril-praia": {
+      "excluded": false,
+      "id": "20260910-pt-bilhetes-a-venda-para-o-fc-porto-estoril-praia",
+      "status": "on_sale",
+      "subcategory": "FC Porto",
+      "title": "FC Porto - Notícias - Bilhetes à venda para o FC Porto-Estoril Praia — 10.ª jornada da Liga joga-se dia 31 de outubro às 20h30 no Estádio do Dragão",
+      "url": "https://www.fcporto.pt/pt/noticias/20260910-pt-bilhetes-a-venda-para-o-fc-porto-estoril-praia"
+    },
+    "20260918-pt-bilhetes-a-venda-para-o-fc-porto-academico": {
+      "excluded": false,
+      "id": "20260918-pt-bilhetes-a-venda-para-o-fc-porto-academico",
+      "status": "on_sale",
+      "subcategory": "FC Porto",
+      "title": "FC Porto - Notícias - Bilhetes à venda para o FC Porto-Académico — Quartos de final da Taça da Liga jogam-se a 28 de outubro no Estádio do Dragão (20h30)",
+      "url": "https://www.fcporto.pt/pt/noticias/20260918-pt-bilhetes-a-venda-para-o-fc-porto-academico"
+    },
     "20260922-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-maritimo-madeira": {
       "excluded": true,
       "id": "20260922-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-maritimo-madeira",
@@ -385,6 +401,30 @@
       "subcategory": "Andebol",
       "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-Veszprém HC — 6.ª jornada da Liga dos Campeões de andebol joga-se quarta-feira às 17h45 no Dragão Arena",
       "url": "https://www.fcporto.pt/pt/noticias/20261022-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-veszprem-hc"
+    },
+    "20261026-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-cdrc-sao-martinho-mouros": {
+      "excluded": true,
+      "id": "20261026-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-cdrc-sao-martinho-mouros",
+      "status": "on_sale",
+      "subcategory": "Futsal",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-CDRC São Martinho Mouros — 6.ª jornada da 3.ª Divisão de futsal disputa-se sábado às 17h00 no Dragão Arena",
+      "url": "https://www.fcporto.pt/pt/noticias/20261026-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-cdrc-sao-martinho-mouros"
+    },
+    "20261026-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-clube-kairos": {
+      "excluded": true,
+      "id": "20261026-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-clube-kairos",
+      "status": "on_sale",
+      "subcategory": "Voleibol",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-Clube Kairós — 4.ª jornada da Liga de voleibol joga-se às 19h00 de sábado no Dragão Arena",
+      "url": "https://www.fcporto.pt/pt/noticias/20261026-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-clube-kairos"
+    },
+    "20261026-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-sporting": {
+      "excluded": true,
+      "id": "20261026-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-sporting",
+      "status": "on_sale",
+      "subcategory": "Andebol",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-Sporting — 11.ª jornada do Campeonato Nacional de andebol disputa-se às 15h00 de domingo, no Dragão Arena",
+      "url": "https://www.fcporto.pt/pt/noticias/20261026-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-sporting"
     }
   }
 }

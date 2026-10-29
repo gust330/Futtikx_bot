@@ -1,8 +1,40 @@
 {
   "appstock": {},
-  "continente": {},
+  "continente": {
+    "portugal-vs-noruega-04-10-20-45": {
+      "away": "Noruega",
+      "date": "04/10",
+      "home": "Portugal",
+      "id": "portugal-vs-noruega-04-10-20-45",
+      "location": "Liga das Nações 2027 - Fase de Grupos Porto | Estádio do Dragão",
+      "price": "",
+      "source": "https://feed.continente.pt/fome-de-vencer",
+      "status": "coming_soon",
+      "time": "20:45",
+      "weekday": "Domingo"
+    },
+    "portugal-vs-pais-de-gales-24-09-19-45": {
+      "away": "País de Gales",
+      "date": "24/09",
+      "home": "Portugal",
+      "id": "portugal-vs-pais-de-gales-24-09-19-45",
+      "location": "Liga das Nações 2027 - Fase de Grupos Lisboa | Estádio José Alvalade",
+      "price": "€ 20,00",
+      "source": "https://feed.continente.pt/fome-de-vencer",
+      "status": "on_sale",
+      "time": "19:45",
+      "weekday": "Quinta"
+    }
+  },
   "fcporto": {},
   "press": {
+    "055d70e7a072d541": {
+      "id": "055d70e7a072d541",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRVJmOEc1Q0J6djR3ZFhBV3JpX2FxamdUdHdIcWJEQlVDMjZzeWtacXJpYW1LM0ZoTmFnRlBMTnF3UDJJU2ZGODZ2QkQyLXZDelVRRVZpanhiMDJoQkVQbnZsNDFiY0NOYmFRZ1lPRUM3MWphYVhFaFdhYTZxaS1Vb3FFX1k1Q2M4Ny1SOHBTZlJRdnBZUElFcExlYm52Wm84aUJyd2pidkRxc1FpZGJlUEk5bjhnUjg?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 17:14:00 GMT",
+      "source": "O Jogo",
+      "title": "Restam poucos bilhetes para a receção do FC Porto ao Académico de Viseu - O Jogo"
+    },
     "139cd0e7060e41b5": {
       "id": "139cd0e7060e41b5",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdzFINloyaFlxUmk0RkVxdDlNU2RrYmhhcHVfbDRlNjVnVF8xUDdnSnVlbnhkZTA0eHVuRVdnMGFsREVnTjQ0c1FpZGp4OTFueEVfdTRQbVEwMGEzLWV0N0tZem1nbFJGZ0hDU3drM0lqUV9YR3JPNTJFOUg0dWRIRktVR1lES254MF8tcmgxdno3UU52a3ZsLWlrY3dBRUplY25CQ25EVWI5UFRnVU1HRFp1WGJsMEN1dDFFUXN3djd0dldkRVgxcnZ1eV9ya2pVOUl4Smw0YlZmbTlJY29yR3V4dDkzMFFuM3c?oc=5",
@@ -31,12 +63,47 @@
       "source": "FC Porto",
       "title": "Notícias - Bilhetes à venda para o FC Porto-Académico - FC Porto"
     },
+    "41051ca93a26a6e5": {
+      "id": "41051ca93a26a6e5",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVnk0Q2hfTVlmZHRYanYxRFdTZUxUYWNVWHJmdko4TVlHZjRkVF9MTUpEWEt1ZERZVWpGYUFFRXFxS0pWMWVISDAzZ3B0UVZGbkl3bkN5eVFkb0RSd1plLUs0TWgtYUV0U1pvNnpjbjJkc2l6UjY0X0ptNTNzMFpicGl6dDNMaTV0d1FCOHNsQ19xNWFQVzg3R2dnWWZOREwtSFlZWURwWTlXcE9GRjB4emZVY1A1dFNwbXBnbGFqc3Y?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 16:14:00 GMT",
+      "source": "SAPO",
+      "title": "Restam poucos bilhetes para a receção do FC Porto ao Académico de Viseu - SAPO"
+    },
+    "4e5a35b1b69f7e3d": {
+      "id": "4e5a35b1b69f7e3d",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSzZqQkd3UTVweFVwd0hCT2ZxSHlfcWN0SjBwS19JN2I5am5WVXV6Nlg5aDJGbWtOeXctVFRPTUs5VU9FdzUwVlFYa3JtUGVQX0x4UF8wbXhKQ085c3RXVzdjX01tSjhJT3BvWldqcDIzZVFOdUJReU5rZTYyOUFlaTg0cjlWdUxVdGljZk5WQzgxdGtlai1LOGVweDcyaHRIWFdWeG1XcmQ2UWdoZlFRV204Z0Jpem8?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 09:14:00 GMT",
+      "source": "FC Porto",
+      "title": "Notícias - Informação sobre os bilhetes para o FC Porto-CDRC São Martinho Mouros - FC Porto"
+    },
+    "4ee9804e814b8cef": {
+      "id": "4ee9804e814b8cef",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOelZGUDJsajdDeUVXQjFYYzNwVTBOaUhiS3pDbmdjNWhjc0dnMml4a3NsRG96RTR6UXFmWmFlaW05Nndxa1hua1BHXy1TZ1czdUItN3Q2eXg0WG5GRUJkbkZ1aEY4ZlBrUG9RUDlxMVNSNUZsY05pQUloZWNobTk5YThicUNaSmd1U1lQRnJiel9Wd0pnbTl4RHF1Y1VwSDN3Zzg2RFlVdw?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 09:42:00 GMT",
+      "source": "FC Porto",
+      "title": "Notícias - Informação sobre os bilhetes para o FC Porto-Clube Kairós - FC Porto"
+    },
+    "5167251ac5064ae9": {
+      "id": "5167251ac5064ae9",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPVnlNVTVQNHNGVWwxdHlMMnpFeFEtUWRpVGloalRkS21wWFZCdU5HOWVqd0llQWZ0ZVZLNkFoVGFlT2xyei1CaU9iZmNJbGpYWV84eXRmb2ROMzZsRVR5TnRwc0JmeW0xSEMxWllaLWxYTXV5RGg2UUUwS3hLaEtOYzhhMTBuRkZxejBkcXhIRVhwSVE4ZU02YWtyMmhiY1dpYmUxdURIWmVYZlh6aVRmekR4OXlUWHN5bDhTZ0lzVTlhTTRYS1J3Q1NHLWVLRDJOSy1YcUJXVjAtNy1FMUdUYl9pQ09aNVhPd1RaRzFRN0RKRlpsejczTHA5WkZzVHNwTGtjaHZfQW84Z2pG0gGMAkFVX3lxTE9WeU1VNVA0c0ZVbDF0eUwyekV4US1RZGlUaWhqVGRLbXBYVkJ1Tkc5ZWp3SWVBZnRlVks2QWhUYWVPbHJ6LUJpT2JmY0lsalhZXzh5dGZvZE4zNmxFVHlOdHBzQmZ5bTFIQzFaWVotbFhNdXlEaDZRRTBLeEtoS05jOGExMG5GRnF6MGRxeEhFWHBJUThlTTZha3IyaGJjV2liZTF1REhaZVhmWHppVGZ6RHg5eVRYc3lsOFNnSXNVOWFNNFhLUndDU0ctZUtEMk5LLVhxQldWMC03LUUxR1RiX2lDT1o1WE93VFpHMVE3REpGWmx6NzNMcDlaRnNUc3BMa2Nodl9BbzhnakY?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 12:53:29 GMT",
+      "source": "Record",
+      "title": "Gil Vicente coloca bilhetes à venda para o jogo com o V. Guimarães: preços estão entre os 40 e os 60 euros - Record"
+    },
     "6654880ae3bc6968": {
       "id": "6654880ae3bc6968",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYkZxdTVMbXhxTXd3T0x4UUJSZF9IVWFqdnBQVG11NXlOcC1oRzVJQXJMdVBnSkZQY3RGYmxfanBxRFktcy1CeExna1M5bFBnSHpvM0Q0bjRuZjIwX0pXMTlQbTVRMmIyckNYMWR6UDV6TDdPSWFRRi14aks0Qi1XTUg2S0hBSjBzVUpaWElmVnFkZkx0ZFowTE1pMnpkRFhWeVR1dktwaHcwNWJvSUNybC1jaXZEd1ZF?oc=5",
       "pubDate": "Fri, 18 Sep 2026 09:42:16 GMT",
       "source": "SAPO",
       "title": "Já pode comprar os bilhetes para Portugal-País de Gales no Continente - SAPO"
+    },
+    "74418267e0c9ffdb": {
+      "id": "74418267e0c9ffdb",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcFp5amZQUWRRWmNXcWR2cVc0VzFVZmpKMTl5cG5qTkZOSjlSdWt0Ty11UkwzSkJDQWw1cXRlMWhDSUpaTERhTUpscGdfUVdqMzAyWDJlOTk4WDNMb0hHS0tTTUtuMDZ5RGZUZEJPdUFDX2ZvMU0xMjVrUmJJNnNiWG91WmZxbVpUOHhfNXNIaTZzRGMxazZkTmFZN2dMQWNNWTRna1R1NVlPZw?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 13:03:34 GMT",
+      "source": "Vietnam.vn",
+      "title": "O Fundo Dinh Van Noi está apoiando os custos cirúrgicos de um vendedor de bilhetes de loteria em Phu Quoc. - Vietnam.vn"
     },
     "83753d3fa1e456de": {
       "id": "83753d3fa1e456de",
@@ -52,12 +119,26 @@
       "source": "fpb.pt",
       "title": "Bilhetes para as Supertaças já estão à venda - fpb.pt"
     },
+    "96aa7a1b6f9b62a4": {
+      "id": "96aa7a1b6f9b62a4",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNenp2eFd6OEtWWDdlQ3o1ZjdoR1VMQS1NUUdVUFI2eTBjRXlXSVNkMnNNMjBfWjJjVXNYYkNNR3NYeGlQem96U3dDbFdnMUVyQlZ4eGJncWFXZHlwTXRRWVYxbjZFckZFblEzTE5JUkFXZ2xsWXlyLWxLLVRQaVVZSzFyR1E2T0lDTFQ4U2JTVUN0U0xPdEtFNmdnZ3c5S3NXdkdiVVZ3MUJtc0NLQ09XZDBVeXgxaHR4cmlR?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 16:14:00 GMT",
+      "source": "SAPO",
+      "title": "Restam poucos bilhetes para a receção do FC Porto ao Académico de Viseu - SAPO"
+    },
     "97f9317dd2753439": {
       "id": "97f9317dd2753439",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZXJGZ1NjOVBNYzNZdVpTcmdUQnpLaVVxZGVRWDlJbU9MR1I2ckNhdE1oV3hIeHhmYnQwSEowS00zSW5nMHQ1LU9pQlo1YkcybmN0TF9yX1dxbHdyOHdqMm9CMlVkZXdpekxXSnVhSzc4czlHNDdNWnBrcS1OV2RsdjR2N0hUYnJSWkFic2YzUGxxV0dFemVhdnNjdEpFS283aGc?oc=5",
       "pubDate": "Thu, 17 Sep 2026 06:47:00 GMT",
       "source": "FC Porto",
       "title": "Notícias - Informação sobre os bilhetes para o FC Porto-SC Braga - FC Porto"
+    },
+    "a5692a05404fd178": {
+      "id": "a5692a05404fd178",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQk1PeGFMdVQxTVpnWWhFVWJacTExaE9fQ2hxaGp5TmJ2Z1dOZ0tMQWNGYTBqQXV6YjBXT19UYjVtalVrTTJwSkhVVEg4TjdiSG5WTi1pTWFFcHpDaEQ3THBVTVBZNThWQWdRb3RnaWpLb1RkSFY1QjNHVUlZaUU3S2podFZvNzE5Y0JFREF6dE5aZVMxak1KTDBaZmt2cl9IV3c?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 08:52:00 GMT",
+      "source": "FC Porto",
+      "title": "Notícias - Informação sobre os bilhetes para o FC Porto-Sporting - FC Porto"
     },
     "a5b88dace80880ec": {
       "id": "a5b88dace80880ec",

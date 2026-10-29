@@ -1,149 +1,121 @@
-# ⚽ Futebol Ticket Bot
+# ⚽ Futtikx — Real-Time Football Ticket Tracker
 
-Warns you on Telegram the moment tickets go on sale — no advance-announcement needed.
+> **Automated ticket availability monitor and Telegram alert bot for the Portugal National Football Team (Continente) and FC Porto.**
 
-**Sources:**
-1. 🇵🇹 **Portugal national team** via **Continente** (`feed.continente.pt/fome-de-vencer`)
-   - This page gives NO advance warning — it just flips from
-     *"disponíveis em breve"* to a price (*"Desde € 20,00"*). The bot polls it.
-   - ⚠️ The website **lags the app**: real stock (sold out or not) is only in the
-     **App Cartão Continente**. See "App-only stock workaround" below.
-2. 🔵⚪ **FC Porto men's senior football** via official news (`fcporto.pt/pt/noticias`)
-   - Watches for new *"bilhetes"* articles, filtered to the men's first team
-     (handball, basketball, women's, youth etc. are ignored via subcategory check).
-3. 🗞️ **Press monitor** (Google News RSS) — early signal: every Continente sale
-   is announced the same day by FPF/Record/A Bola/SAPO. Catches on-sale moments
-   even when the website lags.
-4. 📱 **App-stock poller** (optional, disabled by default) — polls the app's real
-   stock endpoint once you capture it (guide below). This is the true fix for
-   app-only availability.
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg?logo=python&logoColor=white)](#technical-architecture)
+[![Dependencies](https://img.shields.io/badge/Dependencies-Standard%20Library%20Only-success.svg)](#technical-architecture)
+[![Automation](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions%20(15m%20cron)-orange.svg?logo=githubactions&logoColor=white)](#automated-github-actions-workflow)
+[![Alerts](https://img.shields.io/badge/Alerts-Telegram%20Bot%20API-2CA5E0.svg?logo=telegram&logoColor=white)](#telegram-setup)
+[![License](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 
-Stdlib-only Python (no `pip install` needed). State in `state.json`, committed back
-by the workflow so runs can diff.
+---
 
-## Live status (verified 2026-09-23)
+## Overview
 
-| Game | Status |
-|---|---|
-| Portugal vs País de Gales 24/09 (Alvalade) | 🎟️ ON SALE desde € 20,00 (site; app may already be sold out!) |
-| Portugal vs Noruega 04/10 (Dragão) | 👀 coming soon — bot will alert on flip |
-| FC Porto men's football | no ticket news on page 1 right now (only andebol/basket/feminino, correctly ignored) |
+High-demand football tickets in Portugal—especially for the **Seleção Nacional** and **FC Porto**—frequently drop without advance scheduling and sell out within minutes.
 
-## Setup (5 min)
+**Futtikx** continuously monitors primary ticket endpoints, news portals, and app APIs, diffing availability state and dispatching instant Telegram notifications the moment tickets go live:
 
-### 1. Create a Telegram bot
-1. Chat with [@BotFather](https://t.me/BotFather) → `/newbot` → copy the token.
-2. Start a chat with your new bot (press Start).
-3. Get your chat ID: open `https://api.telegram.org/bot<TOKEN>/getUpdates`
-   after sending the bot a message, copy `"id"` from `"chat"`.
-
-Test locally:
-```bash
-TELEGRAM_BOT_TOKEN=... TELEGRAM_CHAT_ID=... python3 check.py --notify-test
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│                        FUTTIKX MONITORING ENGINE                       │
+├────────────────────────────────┬───────────────────────────────────────┤
+│  [🇵🇹] Continente Feed          │  [🔵⚪] FC Porto Official News        │
+│  · feed.continente.pt scraper  │  · fcporto.pt/pt/noticias scraper     │
+│  · Detects coming_soon → on_sale│ · Filters to men's senior football   │
+│  · Captures price & venue      │  · Ignores handball/basketball/youth  │
+├────────────────────────────────┼───────────────────────────────────────┤
+│  [🗞️] Press RSS Monitor        │  [📱] Mobile App-Stock Poller         │
+│  · Google News RSS (pt-PT)     │  · Optional direct API polling        │
+│  · Instant FPF press release   │  · Bypasses website web-cache lag     │
+└────────────────────────────────┴───────────────────────────────────────┘
+                                 │ State Diff Machine
+                                 ▼
+                    [⚡] state.json Persistence
+                                 │
+                                 ▼
+               [📨] Telegram Notification Bot Dispatch
 ```
 
-### 2. Push to GitHub + add secrets
+---
+
+## Detection Layers
+
+| Source | Target | Trigger Condition | Latency / Cadence |
+|---|---|---|---|
+| **Continente** | Portugal National Team | Card flips from *"Disponíveis em breve"* to a price (*"Desde € 20,00"*) | Every 15 min |
+| **FC Porto** | Men's First Team | New article containing `"bilhete"` in the senior football category | Every 15 min |
+| **Google News RSS** | FPF / A Bola / Record / O Jogo | Keyword match on ticket release press statements | Every 15 min |
+| **App-Stock Poller** | Cartão Continente API | Direct inventory count checks via mobile API headers | Configurable |
+
+---
+
+## Technical Architecture
+
+- **Zero Third-Party Dependencies**: Pure Python standard library (`urllib.request`, `json`, `html.parser`, `re`). Runs cleanly on any Python 3.10+ runtime without `pip install`.
+- **State Machine (`state.json`)**: Tracks historical game statuses (`coming_soon`, `on_sale`, `sold_out`), timestamps, and notified hashes.
+- **Git State Persistence**: GitHub Actions automatically commits `state.json` back to the default branch after state mutations, preventing alert duplicates across serverless runner instances.
+
+---
+
+## Setup & Configuration
+
+### 1. Telegram Bot Setup
+1. Message [@BotFather](https://t.me/BotFather) on Telegram and run `/newbot` to obtain your `TELEGRAM_BOT_TOKEN`.
+2. Start a conversation with your bot.
+3. Retrieve your `TELEGRAM_CHAT_ID` via `https://api.telegram.org/bot<TELEGRAM_BOT_TOKEN>/getUpdates`.
+
+### 2. Local Execution
+
 ```bash
-git add -A && git commit -m "ticket bot" && git push
-```
-Repo → Settings → Secrets → Actions → add:
-- `TELEGRAM_BOT_TOKEN`
-- `TELEGRAM_CHAT_ID`
+# Clone the repository
+git clone https://github.com/gust330/Futtikx_bot.git
+cd Futtikx_bot
 
-The workflow (`.github/workflows/check-tickets.yml`) runs **every 15 min**,
-on every push to `main`, plus on-demand (Actions → check-tickets → Run workflow).
-It commits `state.json` back so diffs persist. First run notifies current on-sale items.
+# Verify credentials with a test ping
+TELEGRAM_BOT_TOKEN="your_token" TELEGRAM_CHAT_ID="your_chat_id" python3 check.py --notify-test
 
-### 3. Manual run
-```bash
-python3 check.py --once               # check + notify (needs env vars)
-python3 check.py --check-only         # check, update state, no Telegram
-python3 check.py --once --no-enrich   # skip FCP article detail fetch (faster)
+# Run a single inspection loop
+TELEGRAM_BOT_TOKEN="your_token" TELEGRAM_CHAT_ID="your_chat_id" python3 check.py --once
+
+# Run inspection without sending notifications (updates local state only)
+python3 check.py --check-only
 ```
 
-## ⏰ Schedule not running every 15 min?
+### 3. Automated GitHub Actions Workflow
 
-Checklist (most common first):
+To enable autonomous continuous monitoring:
 
-1. **Brand-new schedules take a while.** GitHub can take up to ~1h to start
-   honouring a freshly pushed `schedule`, and every tick can be delayed several
-   minutes under load. If the repo is < 1h old, wait through 2–3 ticks.
-2. **Schedules only fire on the default branch.** Check the workflow file is on
-   `main` (or your default branch) — manual "Run workflow" runs from any branch,
-   schedules don't.
-3. **Look in the right place:** Actions tab → left sidebar "check-tickets" →
-   all runs. A red ❌ run still counts as "ran" — click it to see which step failed.
-4. **Push-trigger test:** this workflow also runs on every `push` to `main`
-   (except state-only commits). Push any small change — if a run appears, Actions
-   works and it's purely the cron that's slow/disabled.
-5. **Cron delays / pauses:** GitHub may heavily delay cron runs at peak times,
-   and disables schedules after 60 days with no repo activity (re-enable with one
-   manual run). Nothing to fix in code — it's platform behaviour.
-6. **Still nothing after hours?** Re-save the workflow: make a trivial edit
-   (e.g. a comment) and push — this re-registers the schedule.
+1. Push your repository to GitHub.
+2. In your repo: **Settings → Secrets and variables → Actions**, add:
+   - `TELEGRAM_BOT_TOKEN`: Your Telegram bot API token.
+   - `TELEGRAM_CHAT_ID`: Your Telegram numeric chat ID.
+3. The workflow (`.github/workflows/check-tickets.yml`) automatically triggers every 15 minutes, evaluates sources, updates `state.json`, and alerts on status changes.
 
-To prove the loop works end-to-end for a day, set `"heartbeat": true` in
-`config.json` (one "✅ check ok" Telegram message per run), then turn it off.
+---
 
-## 📱 App-only stock workaround (Continente)
+## Project Structure
 
-The website can show "Desde € 20 / comprar" while the app is already sold out.
-Three layers, easiest first:
+```
+Futtikx_bot/
+├── .github/workflows/
+│   └── check-tickets.yml   # 15-minute cron runner and state commit pipeline
+├── src/
+│   ├── continente.py       # Continente Seleção ticket scraper
+│   ├── fcporto.py          # FC Porto news parser and category filter
+│   ├── press.py            # Portuguese sports media RSS monitor
+│   ├── appstock.py         # App Cartão Continente reverse-engineered poller
+│   ├── notifier.py         # Telegram Markdown message dispatcher
+│   └── state.py            # JSON state manager and change detector
+├── check.py                # Main CLI entrypoint
+├── config.json             # Source URLs, keyword filters, and heartbeat settings
+├── state.json              # Historical state cache
+└── README.md
+```
 
-**Layer 1 — press monitor (already on).** Same-day sale announcements from
-FPF/press arrive via Google News RSS. No setup. It won't tell you about
-sell-outs, but it tells you the minute sales *open* — which is when you must
-buy in the app.
+---
 
-**Layer 2 — buy immediately on flip.** The website flip
-coming-soon → on-sale still fires within minutes of the real opening, so the
-Telegram alert means "open the app NOW". Ticket drops for the Seleção sell out
-in hours; speed is the whole game.
+## Author & License
 
-**Layer 3 — poll the app's real endpoint (definitive).** Capture the stock API
-call the app makes, then the bot polls it directly:
-
-1. Android: install **HTTP Toolkit** (free), iPhone: **Proxyman** or **Stream**.
-2. Route your phone through it (it installs a VPN/local proxy + CA cert).
-3. Open the Cartão Continente app → go to the ticket purchase screen for a game.
-4. In the capture, find the request returning stock/availability JSON
-   (host will be something like `*.continente.pt` / `*.cartaocontinente.pt`).
-   Note: URL, method, headers (Authorization!), and which JSON field flips
-   between available/sold-out.
-5. Add GitHub secrets: `APPSTOCK_HEADERS_JSON` =
-   `{"Authorization": "Bearer PASTE", ...}` (and `APPSTOCK_BODY` if it's POST).
-6. In `config.json`, set `appstock.enabled: true`, paste the `url`, and add a
-   watch, e.g. `{"id": "selecao-noruega", "json_path": "data.available",
-   "means_available": true}`. Adapt `json_path`/`means_available`
-   (`true`, `">0"`, or a string to match) to the actual response shape.
-7. Push → next run polls the real stock and alerts on flips to available.
-
-Caveat: app tokens expire (days/weeks). When alerts stop / error alerts mention
-`appstock`, repeat step 4–5 to refresh the secret.
-
-## How detection works
-
-- **Continente:** parses each game card; `game__priceGroup` (price) = `on_sale`,
-  *"esgotados"* = `sold_out`, *"breve"* = `coming_soon`. Alerts on:
-  new game found (so you're ready) + any flip **to** `on_sale` (urgent).
-- **FC Porto:** lists `/pt/noticias/*bilhete*` slugs, fetches each detail page,
-  reads `<span class="subcategory">` (`FC Porto` = men's football vs
-  `Andebol`/`Basquetebol`/`Feminino`…) + subtitle. Alerts only on new men's
-  senior-football items.
-- **Press:** Google News RSS (`hl=pt-PT&gl=PT`, `when:7d`), keyword-filtered
-  (`bilhete` required, reclamações/modalities excluded). Alerts on new matches.
-- **Errors/heartbeat:** any source failure sends one ⚠️ Telegram message
-  (`alert_on_error`, default on). Optional per-run ✅ heartbeat for debugging
-  cadence (`heartbeat`, default off).
-
-## Extending later
-Add entries to `config.json` + a new module in `src/`. Note: `fpf.pt` and
-`bilheteira.fpf.pt` sit behind Cloudflare bot protection (HTTP 403 to simple
-fetchers incl. GitHub runners), so FPF coverage currently comes via the press
-feed, which already includes FPF announcements.
-
-## Limitations
-- FC Porto listing shows ~27 latest articles (~1–2 days); polling every 15 min
-  catches announcements while visible. A sitemap/API backfill could be added later.
-- Continente page structure may change; `src/continente.py::parse_games` is the
-  single place to adapt (segment-split on `game__date`).
+Engineered by **Gustavo Teixeira** ([@gust330](https://github.com/gust330)).  
+Licensed under the [MIT License](LICENSE).

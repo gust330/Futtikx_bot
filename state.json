@@ -26,7 +26,32 @@
       "weekday": "Quinta"
     }
   },
-  "fcporto": {},
+  "fcporto": {
+    "20261026-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-cdrc-sao-martinho-mouros": {
+      "excluded": true,
+      "id": "20261026-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-cdrc-sao-martinho-mouros",
+      "status": "on_sale",
+      "subcategory": "Futsal",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-CDRC São Martinho Mouros — 6.ª jornada da 3.ª Divisão de futsal disputa-se sábado às 17h00 no Dragão Arena",
+      "url": "https://www.fcporto.pt/pt/noticias/20261026-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-cdrc-sao-martinho-mouros"
+    },
+    "20261028-pt-informacao-sobre-os-bilhetes-para-o-ad-ovarense-fc-porto": {
+      "excluded": true,
+      "id": "20261028-pt-informacao-sobre-os-bilhetes-para-o-ad-ovarense-fc-porto",
+      "status": "on_sale",
+      "subcategory": "Basquetebol",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o AD Ovarense-FC Porto — 5.ª jornada da Liga Portuguesa de Basquetebol joga-se na Arena de Ovar (sábado, 16h00)",
+      "url": "https://www.fcporto.pt/pt/noticias/20261028-pt-informacao-sobre-os-bilhetes-para-o-ad-ovarense-fc-porto"
+    },
+    "20261030-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-club-joventut-badalona": {
+      "excluded": true,
+      "id": "20261030-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-club-joventut-badalona",
+      "status": "on_sale",
+      "subcategory": "Basquetebol",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-Club Joventut Badalona — 3.ª jornada da Champions de basquetebol joga-se terça-feira às 19h30 no Centro de Desportos e Congressos de Matosinhos",
+      "url": "https://www.fcporto.pt/pt/noticias/20261030-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-club-joventut-badalona"
+    }
+  },
   "press": {
     "055d70e7a072d541": {
       "id": "055d70e7a072d541",
@@ -154,6 +179,13 @@
       "source": "SAPO",
       "title": "Restam poucos bilhetes para a receção do FC Porto ao Académico de Viseu - SAPO"
     },
+    "978e92f828959733": {
+      "id": "978e92f828959733",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcW10dlg3SlZuaEp4OGRUN0NCSTFGZ2UyVGNKd1ZZMWdDblRsY0Ffdi1qUk8tOW5sNG9PNWlaaVo0cVJJbWRtMk5QMExodFdPM0JrVXFQQXZVUFdDS2JHZEs4WmJadW96ZGJ2SExfOHRFaFBidFYyeFBySFp2T0lXVW9JTUNhdWpPVHpjTHVCU2lmeVM0emMzbkRWN0Z6Q0pQdWtweHRvdThERDBmQWtPaG9sUGdPcTBvZGpuSm90U2oxOUo2aF9Z?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 18:07:07 GMT",
+      "source": "Sou Portista",
+      "title": "Bilhetes para o FC Porto-Club Joventut Badalona já estão disponíveis - Sou Portista"
+    },
     "97f9317dd2753439": {
       "id": "97f9317dd2753439",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZXJGZ1NjOVBNYzNZdVpTcmdUQnpLaVVxZGVRWDlJbU9MR1I2ckNhdE1oV3hIeHhmYnQwSEowS00zSW5nMHQ1LU9pQlo1YkcybmN0TF9yX1dxbHdyOHdqMm9CMlVkZXdpekxXSnVhSzc4czlHNDdNWnBrcS1OV2RsdjR2N0hUYnJSWkFic2YzUGxxV0dFemVhdnNjdEpFS283aGc?oc=5",
@@ -181,6 +213,13 @@
       "pubDate": "Fri, 18 Sep 2026 09:46:22 GMT",
       "source": "Marketeer",
       "title": "Quer ver o jogo Portugal x País de Gales em Alvalade? Há bilhetes desde 20€ e 25% de volta para clientes Continente - Marketeer"
+    },
+    "b797ab6552067e51": {
+      "id": "b797ab6552067e51",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcEpmRExpOVBvMWQwdndFOVNWODFoNGNyYnFsTlA0NVBmTHVpR0FFQkVmUFNNM3lXNW1KTnRNQ3lCQllveHp3aWh4V2kxX2hUemFVSDNzMU1DN3VWSWI0UzVZbTl6dW05Skoyc2pPYlZlREVDWll6ZDF0S3hPajlaQkhVYjktYjNMZHJGenBEeHNaQjNaVzRYNFBiMlF6Zk9SbW1KNVc1d1ZNbW5fV3VFZTFsUEg?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 09:00:00 GMT",
+      "source": "FC Porto",
+      "title": "Notícias - Informação sobre os bilhetes para o FC Porto-Club Joventut Badalona - FC Porto"
     },
     "bc29572657744e2d": {
       "id": "bc29572657744e2d",

@@ -35,6 +35,22 @@
       "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-CDRC São Martinho Mouros — 6.ª jornada da 3.ª Divisão de futsal disputa-se sábado às 17h00 no Dragão Arena",
       "url": "https://www.fcporto.pt/pt/noticias/20261026-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-cdrc-sao-martinho-mouros"
     },
+    "20261026-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-clube-kairos": {
+      "excluded": true,
+      "id": "20261026-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-clube-kairos",
+      "status": "on_sale",
+      "subcategory": "Voleibol",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-Clube Kairós — 4.ª jornada da Liga de voleibol joga-se às 19h00 de sábado no Dragão Arena",
+      "url": "https://www.fcporto.pt/pt/noticias/20261026-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-clube-kairos"
+    },
+    "20261026-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-sporting": {
+      "excluded": true,
+      "id": "20261026-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-sporting",
+      "status": "on_sale",
+      "subcategory": "Andebol",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-Sporting — 11.ª jornada do Campeonato Nacional de andebol disputa-se às 15h00 de domingo, no Dragão Arena",
+      "url": "https://www.fcporto.pt/pt/noticias/20261026-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-sporting"
+    },
     "20261028-pt-informacao-sobre-os-bilhetes-para-o-ad-ovarense-fc-porto": {
       "excluded": true,
       "id": "20261028-pt-informacao-sobre-os-bilhetes-para-o-ad-ovarense-fc-porto",
@@ -171,6 +187,13 @@
       "pubDate": "Tue, 27 Oct 2026 12:53:27 GMT",
       "source": "Record",
       "title": "Gil Vicente coloca bilhetes à venda para o jogo com o V. Guimarães: preços estão entre os 40 e os 60 euros - Record"
+    },
+    "8ac0b672d1a3bfbb": {
+      "id": "8ac0b672d1a3bfbb",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oNEZpVUZJWnozZnZGWDJDT08xYVA1a2M1Ui15ZkRLb1ZFcEc3WGtlTVBnZno5SU5XRzM3Wk9NdE9UcUFJdDdWdmY0dmV4QjdBS1ZiZHpQNjhuZExGSzlTeEh2WjA4YXNOcFlPdFRJMlMyMXZ3SzJJQXZkcUNsdw?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 10:38:36 GMT",
+      "source": "FPF",
+      "title": "Jogo de Braga esgotado na bilheteira FPF - FPF"
     },
     "96aa7a1b6f9b62a4": {
       "id": "96aa7a1b6f9b62a4",

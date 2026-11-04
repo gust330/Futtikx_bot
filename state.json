@@ -82,6 +82,38 @@
       "subcategory": "Voleibol",
       "title": "FC Porto - Notícias - Informação sobre os bilhetes para o PV Colégio Efanor-FC Porto — 5.ª jornada da Liga de voleibol joga-se domingo às 15h00 no Pavilhão do Colégio Efanor",
       "url": "https://www.fcporto.pt/pt/noticias/20261103-pt-informacao-sobre-os-bilhetes-para-o-pv-colegio-efanor-fc-porto"
+    },
+    "20261104-pt-bilhetes-para-guimaraes-a-venda-online": {
+      "excluded": false,
+      "id": "20261104-pt-bilhetes-para-guimaraes-a-venda-online",
+      "status": "on_sale",
+      "subcategory": "FC Porto",
+      "title": "FC Porto - Notícias - Bilhetes para Guimarães à venda online — A partir das 12h00 desta quinta-feira",
+      "url": "https://www.fcporto.pt/pt/noticias/20261104-pt-bilhetes-para-guimaraes-a-venda-online"
+    },
+    "20261104-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-sc-braga": {
+      "excluded": true,
+      "id": "20261104-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-sc-braga",
+      "status": "on_sale",
+      "subcategory": "Feminino",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-SC Braga — 2.ª jornada da Taça da Liga feminina disputa-se no CTFD Jorge Costa (sábado, 17h30)",
+      "url": "https://www.fcporto.pt/pt/noticias/20261104-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-sc-braga"
+    },
+    "20261104-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-sc-braga-u": {
+      "excluded": false,
+      "id": "20261104-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-sc-braga-u",
+      "status": "on_sale",
+      "subcategory": "",
+      "title": "FC Porto — Página não encontrada",
+      "url": "https://www.fcporto.pt/pt/noticias/20261104-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-sc-braga-u"
+    },
+    "20261104-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-ud-sousel": {
+      "excluded": true,
+      "id": "20261104-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-ud-sousel",
+      "status": "on_sale",
+      "subcategory": "Futsal",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-UD Sousel — 2.ª eliminatória da Taça de futsal joga-se sábado às 15h00 no Dragão Arena",
+      "url": "https://www.fcporto.pt/pt/noticias/20261104-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-ud-sousel"
     }
   },
   "press": {
@@ -91,6 +123,13 @@
       "pubDate": "Mon, 26 Oct 2026 17:14:00 GMT",
       "source": "O Jogo",
       "title": "Restam poucos bilhetes para a receção do FC Porto ao Académico de Viseu - O Jogo"
+    },
+    "10b6cc24a75736ba": {
+      "id": "10b6cc24a75736ba",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObUVHcUtZUEUxTlFkenpLT0Zmcl9fQk1hX0p2NWlaSnJmNlFqOXNMa1gwNDVtTTB2UHU3ZHI2LVdVQklxb29DWHRSLUh1anNELWl1RF9iQUo2Yk13bHVYb0ZYb2VQRDBOazNnaWMtTkZ1VGhwMXlSTmZoS2k3WXJ1RE8zVzd0QmFPTnNnUWVIYllId0VXbzk0eWw4LUZSLWsxS25mWERJeEE2dw?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 15:17:00 GMT",
+      "source": "SAPO",
+      "title": "FC Porto: bilhetes para Guimarães à venda esta quinta-feira - SAPO"
     },
     "139cd0e7060e41b5": {
       "id": "139cd0e7060e41b5",
@@ -120,6 +159,13 @@
       "source": "FC Porto",
       "title": "Notícias - Bilhetes à venda para o FC Porto-Académico - FC Porto"
     },
+    "3b0edd4767ef6910": {
+      "id": "3b0edd4767ef6910",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSE9ibG9sLW5vME94azNOUjZHZ2RIa0lmUFdROVFXQ3JmUFJYNWpldGZTRnQ0Xy1sTVVaTEZmc3E4RzhtR1AxeHRPT0FaRWRHdUd0Y0tLR3Mwb1J1MWdaOGZmalJaYjBxbE1kTmRkcHVOWGUtZlNLa0ZVYzJpQmQwcVU2aUwweXBLenV3cUtKWnQ1bVBOQjN5WmZ3QU1YZVBKYnF5NUZWSUd6dw?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 02:31:00 GMT",
+      "source": "FC Porto",
+      "title": "Notícias - Informação sobre os bilhetes para o FC Porto B-Portimonense - FC Porto"
+    },
     "3b6c80acac035914": {
       "id": "3b6c80acac035914",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMjY2VUNqOHJxWmctZmZ6QnZtSEhfRm1BUlpsZXBoS0tzbEpubkIyMG1RYkZEUFN2UEdBM2JiVjhoZ1VESC13Y0VENXBUZkR0UVRkb1hXdEtnalpRd0JMNWQ3N3JORXFETlZ3V3FTbUVEajRkQ3Zrai1iS0V4ZHRmOXV4SFlLOVNvU0NjWA?oc=5",
@@ -140,6 +186,13 @@
       "pubDate": "Sat, 31 Oct 2026 11:05:03 GMT",
       "source": "Record",
       "title": "Libertadores: Flamengo pede adiamento da venda de bilhetes da final devido a ex-Sporting - Record"
+    },
+    "44a38947587e2575": {
+      "id": "44a38947587e2575",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTE5nbkFhRnBpUUpSeFQtMVF5STU4MzNkYUNqVzl0RmlOWkVpUVpHM3l0dnRTclk2Skl3TjlQWnFnWGhLQXNnVmxxcmlYWkx3dFRxQURxaWthb1NBTTVpczlfZkNZaWxTN2o5SUdwNzBPY1J4R1FlTTBEMzlXTGxEQXd5MTJDc2pLSTdjbVhGVkdPeXo1OXBURkpBLWd0aDBUaHc?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 06:03:00 GMT",
+      "source": "FC Porto",
+      "title": "Notícias - Informação sobre os bilhetes para o FC Porto-SC Braga - FC Porto"
     },
     "4e31264b77e8bcd1": {
       "id": "4e31264b77e8bcd1",
@@ -176,12 +229,26 @@
       "source": "Record",
       "title": "Gil Vicente coloca bilhetes à venda para o jogo com o V. Guimarães: preços estão entre os 40 e os 60 euros - Record"
     },
+    "60ec7bf425d64478": {
+      "id": "60ec7bf425d64478",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTFJoU2M3U3ZmTlFSbm8zQ3kwRHB2dnQyTXdFV1RuM2RPaktZaTd0U0dCNDZkU2hodjFzZXhta2pMeE9nN2VZZC1KNEVSQWdpNlRrZS1CREc4eXR2SVZhVmhpYWRCVGgzX2FqdXBBTDJ3UEFqQ0wzR0JHY1dvdkkyQWRDMktpSlJXWFpnSUZ2M0hiM3VfaTZyaWZQQ3A4aDFOM1VPOUlZdnJtUUZBblJGbGJOOXNhbXhVdEJEY3pHcENZVUVvZnZhTzFSTG9CWnQwU3c?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 13:24:06 GMT",
+      "source": "Sou Portista",
+      "title": "Bilhetes para o FC Porto-UD Sousel na Taça de Portugal de futsal já estão à venda - Sou Portista"
+    },
     "6654880ae3bc6968": {
       "id": "6654880ae3bc6968",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYkZxdTVMbXhxTXd3T0x4UUJSZF9IVWFqdnBQVG11NXlOcC1oRzVJQXJMdVBnSkZQY3RGYmxfanBxRFktcy1CeExna1M5bFBnSHpvM0Q0bjRuZjIwX0pXMTlQbTVRMmIyckNYMWR6UDV6TDdPSWFRRi14aks0Qi1XTUg2S0hBSjBzVUpaWElmVnFkZkx0ZFowTE1pMnpkRFhWeVR1dktwaHcwNWJvSUNybC1jaXZEd1ZF?oc=5",
       "pubDate": "Fri, 18 Sep 2026 09:42:16 GMT",
       "source": "SAPO",
       "title": "Já pode comprar os bilhetes para Portugal-País de Gales no Continente - SAPO"
+    },
+    "675c3b83b65438da": {
+      "id": "675c3b83b65438da",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX09VeUxydmdvcURLZ2dBOG10aUI0UzFxZVEtbjNPOV9IQUFESTF5amNmckZ5bkF0eFJYaFBiY29JSEdDcVg3N1laaFVJWU0xU0J1TEJxUHAzTm5TbVVZcVk2S20zZTZzNjhRQTZUajBWUnJkSmpZMWxueEV5TVJyMm45TTNhRTVJdkRGc1V6b29xNVhLalp0UzNqbUZnLWhaaDA0Sk8tTHpDZw?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 08:07:00 GMT",
+      "source": "FC Porto",
+      "title": "Notícias - Informação sobre os bilhetes para o FC Porto-SC Braga - FC Porto"
     },
     "68a4f5a681ab8f60": {
       "id": "68a4f5a681ab8f60",
@@ -210,6 +277,13 @@
       "pubDate": "Thu, 29 Oct 2026 15:02:00 GMT",
       "source": "O Jogo",
       "title": "Bilhetes para receção do Gil Vicente ao Vitória custam entre 40 a 60 euros - O Jogo"
+    },
+    "77d01473c84eb98d": {
+      "id": "77d01473c84eb98d",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVEdRTjYxUFk3MVFQOHNuSXl3STBpZlRvZFVPSThKVDl3aHVDTzlfQXpTSFB5RU90VnJoVTQ1TENCRTVjUnBYMnNVdzZHNHBaZG9CUS1nbWVhQ3djQTUxbklqM3oyUVhselBuaDAzSDU1YzluVWNicEU3czRQMHoyMmJwQ2R0UkliVmU3dnBB?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 07:00:00 GMT",
+      "source": "FC Porto",
+      "title": "Notícias - Bilhetes para Guimarães à venda online - FC Porto"
     },
     "796c1e74199ebc57": {
       "id": "796c1e74199ebc57",
@@ -245,6 +319,13 @@
       "pubDate": "Fri, 18 Sep 2026 19:37:46 GMT",
       "source": "record.pt",
       "title": "Bilhetes para o FC Porto-Académico Viseu na Allianz Cup a partir de 5 euros - record.pt"
+    },
+    "84459528ef349c13": {
+      "id": "84459528ef349c13",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPczMxdGJJR2wxcUZVd01WQ3gxbzN1V0xlOEFOVHdZb01PeWtVeDRfeUxxU3JRSUxNVkduWm0tR3NwcnVDYlVIamgzbF9YUjUzcG95dDVCbVBZSkYzOEFaaFctNkpwOWJpSFpnSUxNQ1hDYm44OEZUZkZjbHExVTBpX0tvNndfamlWLWt5TGh3RXItbU1fMnRlZVdzUzN3ZWUtNE5xTzVLMDdXa1NL?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 16:17:00 GMT",
+      "source": "A Bola",
+      "title": "FC Porto: bilhetes para Guimarães à venda esta quinta-feira - A Bola"
     },
     "845f2400b62adeb0": {
       "id": "845f2400b62adeb0",
@@ -330,12 +411,26 @@
       "source": "Liga Portugal",
       "title": "Informações sobre a venda de bilhetes para a Final Four da 20.ª edição da Allianz CUP - Liga Portugal"
     },
+    "c85c417847fb8339": {
+      "id": "c85c417847fb8339",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeUhrSVlxSW9IQ0FGbXAzbklxOV9fcGhjb1R3V2hncHp3bUJSZWV3alBfdWZoOG5kWGRvZGhwT0pqa1J4SUwxZG9kZE1TTnNCZzZWSHNsUVhjRGpvbmNGYXJ0eEtyY3FUSlFOd09LZUUydTZIQ3RHRjh3d3ZOa2hMMUVOWmJkZDhDV2s0aXNXUUpyR2xRQ1BGTGg1ZGpRckk3aUVF?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 03:42:00 GMT",
+      "source": "FC Porto",
+      "title": "Notícias - Informação sobre os bilhetes para o FC Porto-UD Sousel - FC Porto"
+    },
     "caef56cde8ce596c": {
       "id": "caef56cde8ce596c",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYVpPZG1XbGxWQ2x1bmI3OGZkWDJTTXNyY1J2ODJUWnJibEh1V2JBaFBVOUNwLW5KQTBqZmNOdlM3M1pzRE03OW9JeUJZcVlwamV2VjlfWGJ2UmJCdHptVEZKbkRscUZ6Tk1xVWdhaTRIVUNSZWZOcEliS3N4ZzZHQXNTeWFkMG41SWZoT1M4WVRGM0MxR3J2blB6cUw4ZlpaZWktbFFIWnY?oc=5",
       "pubDate": "Wed, 28 Oct 2026 22:49:08 GMT",
       "source": "RTP",
       "title": "Bilhetes a 15, 20 e 25 euros para a final da Taça da Liga - RTP"
+    },
+    "d8725a202aed5bec": {
+      "id": "d8725a202aed5bec",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMXBqS2dZVExVR3pmMFhuQmV3Vm85aWpUQVlmRFlfNDB1cVp4RjV1aE8xa3R3cGxsSnBUVG5Pb0NlNVdfNnl2SGhyZkdlRzFXdjE3QUhRcFktY3gyWGx6MEhUd296N1NEWkx0engxZUM1cUo3Y182RjN3czdLYzVIOUxfc21NbkVEUWFlai05bHl0bmZTVnBpbHZVVzh6MTl3eGJWa0FrandSVEdVdjE0YWNJX0RRVFBTM1E?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 16:27:12 GMT",
+      "source": "Sou Portista",
+      "title": "Bilhetes para a deslocação a Guimarães à venda a partir desta quinta-feira - Sou Portista"
     },
     "dda081b01e8f954f": {
       "id": "dda081b01e8f954f",

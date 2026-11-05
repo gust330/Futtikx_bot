@@ -1,6 +1,18 @@
 {
   "appstock": {},
   "continente": {
+    "portugal-vs-dinamarca-14-11-20-45": {
+      "away": "Dinamarca",
+      "date": "14/11",
+      "home": "Portugal",
+      "id": "portugal-vs-dinamarca-14-11-20-45",
+      "location": "Liga das Nações 2027 - Fase de Grupos Braga | Estádio Municipal de Braga",
+      "price": "",
+      "source": "https://feed.continente.pt/fome-de-vencer",
+      "status": "coming_soon",
+      "time": "20:45",
+      "weekday": "Sábado"
+    },
     "portugal-vs-noruega-04-10-20-45": {
       "away": "Noruega",
       "date": "04/10",
@@ -114,6 +126,22 @@
       "subcategory": "Futsal",
       "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-UD Sousel — 2.ª eliminatória da Taça de futsal joga-se sábado às 15h00 no Dragão Arena",
       "url": "https://www.fcporto.pt/pt/noticias/20261104-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-ud-sousel"
+    },
+    "20261105-pt-bilhetes-esgotados-para-guimaraes": {
+      "excluded": false,
+      "id": "20261105-pt-bilhetes-esgotados-para-guimaraes",
+      "status": "on_sale",
+      "subcategory": "FC Porto",
+      "title": "FC Porto - Notícias - Bilhetes esgotados para Guimarães — Vitória SC-FC Porto, da 11.ª jornada da Liga Portugal, joga-se domingo às 18h00",
+      "url": "https://www.fcporto.pt/pt/noticias/20261105-pt-bilhetes-esgotados-para-guimaraes"
+    },
+    "20261105-pt-feyenoord-fc-porto-ultimos-250-bilhetes-disponiveis": {
+      "excluded": false,
+      "id": "20261105-pt-feyenoord-fc-porto-ultimos-250-bilhetes-disponiveis",
+      "status": "on_sale",
+      "subcategory": "FC Porto",
+      "title": "FC Porto - Notícias - Feyenoord-FC Porto: últimos 250 bilhetes disponíveis — A partir das 15h00 desta sexta-feira",
+      "url": "https://www.fcporto.pt/pt/noticias/20261105-pt-feyenoord-fc-porto-ultimos-250-bilhetes-disponiveis"
     }
   },
   "press": {
@@ -172,6 +200,13 @@
       "pubDate": "Tue, 27 Oct 2026 10:07:40 GMT",
       "source": "Gil Vicente",
       "title": "BILHETES À VENDA PARA A DESLOCAÇÃO AO TERRENO DO SL BENFICA - Gil Vicente"
+    },
+    "3c1355ce3af7347b": {
+      "id": "3c1355ce3af7347b",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMkZuUGQ2UmpNdFlMdkQ3cWx3NmRIU1dCRHl6cVNTQm12dWtkSUp2TDRraTUzZmxIUEJPVmJCRmpEQnFpbmR2aUZmaVRTTUoxY1JHX3BLaDA4bXlYUmUwWGhDTUhoU1p4U09TUU9CbUM1WExldWpiQXg2c1ZaaGw1YTBhaFkwZEtDUEZNbjBycEYtbkdRUWluNGtONElFenVqdEU1ZldkWQ?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 18:13:30 GMT",
+      "source": "Sou Portista",
+      "title": "Bilhetes do FC Porto esgotados para a deslocação a Guimarães - Sou Portista"
     },
     "41051ca93a26a6e5": {
       "id": "41051ca93a26a6e5",
@@ -263,6 +298,13 @@
       "pubDate": "Tue, 03 Nov 2026 17:29:59 GMT",
       "source": "Mais Guimarães",
       "title": "Vitória SC abre venda de bilhetes para a receção ao FC Porto - Mais Guimarães"
+    },
+    "701cbe0ea83c3d4a": {
+      "id": "701cbe0ea83c3d4a",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRWZaS1JtdGJsbGNDb3ViQ2h0T01VQm02cG9OckNtdGJyWDZoVnowUWVyTG40X1pTc21LdjFsaFNnNTlDQW9FQ0FXRXZKdjJyQlJLOUpBWW1zYkhURkN5LW1wTEJnOXZQNk1OaVZtME5vT3p4Y1VGSHpYV2FEM2c5N3I2TWNwZVFVclZOalQyR2RBQTJoVmtNaUY4d0hyQm9xVXE3MHQ4T0VNTVkyWmtn?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 15:17:00 GMT",
+      "source": "SAPO",
+      "title": "FC Porto: bilhetes para Guimarães à venda esta quinta-feira - SAPO"
     },
     "74418267e0c9ffdb": {
       "id": "74418267e0c9ffdb",
@@ -414,7 +456,7 @@
     "c85c417847fb8339": {
       "id": "c85c417847fb8339",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeUhrSVlxSW9IQ0FGbXAzbklxOV9fcGhjb1R3V2hncHp3bUJSZWV3alBfdWZoOG5kWGRvZGhwT0pqa1J4SUwxZG9kZE1TTnNCZzZWSHNsUVhjRGpvbmNGYXJ0eEtyY3FUSlFOd09LZUUydTZIQ3RHRjh3d3ZOa2hMMUVOWmJkZDhDV2s0aXNXUUpyR2xRQ1BGTGg1ZGpRckk3aUVF?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 11:42:00 GMT",
+      "pubDate": "Wed, 04 Nov 2026 03:42:00 GMT",
       "source": "FC Porto",
       "title": "Notícias - Informação sobre os bilhetes para o FC Porto-UD Sousel - FC Porto"
     },
@@ -445,6 +487,13 @@
       "pubDate": "Tue, 22 Sep 2026 09:12:00 GMT",
       "source": "FC Porto",
       "title": "Notícias - Informação sobre os bilhetes para o FC Porto-Marítimo Madeira - FC Porto"
+    },
+    "e3987c838667aa4a": {
+      "id": "e3987c838667aa4a",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPckNhMVZJbTA3aDZtWTFKVXlJYUJicW1JSlVzcXBwUDJDejJKWW8tMVJERjROUy0zdGVrbEJMOU8xNVVsNzlwS0JQS1ZGYVNSOTZXend1T3I0SWJSaDBoR29hdFAtbFZ0WHVhZU1pc29xOGtkbWxhQ1ZMcG5mSmtoTWFxYUNyWGdnczNiZ3d1dzA1Uk9aUlFXb3F0NTVTbThjaVE?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 12:52:00 GMT",
+      "source": "dnoticias.pt",
+      "title": "Campanha de escapadinhas gera 1.200 bilhetes para os Açores - dnoticias.pt"
     },
     "e65bb43184604abc": {
       "id": "e65bb43184604abc",

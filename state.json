@@ -39,6 +39,14 @@
     }
   },
   "fcporto": {
+    "20261019-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-vitoria-sc": {
+      "excluded": true,
+      "id": "20261019-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-vitoria-sc",
+      "status": "on_sale",
+      "subcategory": "Feminino",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-Vitória SC — 5.ª jornada da Liga feminina disputa-se às 11h00 de sábado no Olival",
+      "url": "https://www.fcporto.pt/pt/noticias/20261019-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-vitoria-sc"
+    },
     "20261026-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-cdrc-sao-martinho-mouros": {
       "excluded": true,
       "id": "20261026-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-cdrc-sao-martinho-mouros",
@@ -142,6 +150,22 @@
       "subcategory": "FC Porto",
       "title": "FC Porto - Notícias - Feyenoord-FC Porto: últimos 250 bilhetes disponíveis — A partir das 15h00 desta sexta-feira",
       "url": "https://www.fcporto.pt/pt/noticias/20261105-pt-feyenoord-fc-porto-ultimos-250-bilhetes-disponiveis"
+    },
+    "20261106-pt-esgotado-o-ultimo-lote-de-bilhetes-para-roterdao": {
+      "excluded": false,
+      "id": "20261106-pt-esgotado-o-ultimo-lote-de-bilhetes-para-roterdao",
+      "status": "on_sale",
+      "subcategory": "FC Porto",
+      "title": "FC Porto - Notícias - Esgotado o último lote de bilhetes para Roterdão — Feyenoord-FC Porto, da 5.ª jornada da Liga dos Campeões, joga-se dia 24 às 20h00 nos Países Baixos",
+      "url": "https://www.fcporto.pt/pt/noticias/20261106-pt-esgotado-o-ultimo-lote-de-bilhetes-para-roterdao"
+    },
+    "20261106-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-benfica": {
+      "excluded": true,
+      "id": "20261106-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-benfica",
+      "status": "on_sale",
+      "subcategory": "Hóquei em Patins",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-Benfica — 1.ª jornada do Nacional de hóquei está agendada para quarta-feira às 20h00 no Dragão Arena",
+      "url": "https://www.fcporto.pt/pt/noticias/20261106-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-benfica"
     }
   },
   "press": {
@@ -186,6 +210,13 @@
       "pubDate": "Fri, 18 Sep 2026 07:00:00 GMT",
       "source": "FC Porto",
       "title": "Notícias - Bilhetes à venda para o FC Porto-Académico - FC Porto"
+    },
+    "32dd6a84a50f6dd2": {
+      "id": "32dd6a84a50f6dd2",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc1FDWWplZlA4SEJ0M3l4c3FiQ05McVZvMDdzOUxlT2d0aFJYb2F3YUo0bm5EcFZSLWVTaDJwVnh0bjYxRF9aN1NTWC16alp2OE9DTmloVThpTjlMYXAzVlhxbGpPUEpQalIwZ3hKMzRTYWRpVThQYmdhVktjUVA3OU1NeWVZSjFQOEprd0oycnowNkNPN29n?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 18:09:35 GMT",
+      "source": "diadejogo.pt",
+      "title": "Adeptos do FC Porto esgotam bilhetes para o De Kuip - diadejogo.pt"
     },
     "3a7c939cb0698e87": {
       "id": "3a7c939cb0698e87",
@@ -284,6 +315,13 @@
       "pubDate": "Thu, 05 Nov 2026 19:33:09 GMT",
       "source": "Sou Portista",
       "title": "Feyenoord-FC Porto: últimos 250 bilhetes à venda esta sexta-feira - Sou Portista"
+    },
+    "5c30d45e72a89098": {
+      "id": "5c30d45e72a89098",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTEYzQmtjZE03b0FZem5aTWR2LXVQMGhtMnY4RmhVUWQ2X3dFbE1GajYza3hPRDE4akIyXzNmTTRoWWp5eVp1cWhGRlJhUy05MFo1LWdiZVdaZWJRc1hpcnVlTnJZcnBvdkNIWXJHTUNmZzB6UEcwMDdRSHBFeVFueGJNUEFuX09VaHpoRWZraGRKSXhMa0tSamJ3YjdWZ0htbnd2YS1LUWJIWk5QWkVsajRnZmo4dUM2NDNxM3N3?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 16:59:23 GMT",
+      "source": "Sou Portista",
+      "title": "Hóquei em patins: bilhetes para o FC Porto-Benfica já estão à venda - Sou Portista"
     },
     "60ec7bf425d64478": {
       "id": "60ec7bf425d64478",
@@ -404,6 +442,13 @@
       "source": "fpb.pt",
       "title": "Bilhetes para as Supertaças já estão à venda - fpb.pt"
     },
+    "85718f6afc4a9912": {
+      "id": "85718f6afc4a9912",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVl9Wd1Q1ZG9qX0lhWERJc1hqQk14OTRoV3IxdGI1eXJXa1ZGaU5wVVl5c2dSVFBQN3dqQWQtS0k5NHhHMXYxTXJVUXV5elViVlpnWVpiOXZEUGRTZGdyVUstNHd5eWxLaGNIbUwzSWhHN0FXanVSbkRsMTdXdFQyWGFHVWt5MEItMzlwS1VpRS1PTmRfVm9MbU9KbTlWRFRlUEJEd2VPVVlHN2xpay0wbmdTdXXSAbQBQVVfeXFMUFZfVndUNWRval9JYVhESXNYakJNeDk0aFdyMXRiNXlyV2tWRmlOcFVZeXNnUlRQUDd3akFkLUtJOTR4RzF2MU1yVVF1eXpVYlZaZ1laYjl2RFBkU2RnclVLLTR3eXlsS2hjSG1MM0loRzdBV2p1Um5EbDE3V3RUMlhhR1VreTBCLTM5cEtVaUUtT05kX1ZvTG1PSm05VkRUZVBCRHdlT1VZRzdsaWstMG5nU3V1?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 17:36:35 GMT",
+      "source": "Record",
+      "title": "FC Porto esgota bilhetes para o Feyenoord - Record"
+    },
     "876859d1b52aeeb2": {
       "id": "876859d1b52aeeb2",
       "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPN2dRZ1pLeTlBbW1nSDk1N2NaOVBZUDBTdE9Yc21LRHhiTE9Ed01FSGhhZGJqdUx0amJtLXRPeWxiVFhJR3ZmQzJsN2o0S21ZREZTYW0ybTY5a0VjM3lSUUgyQkRYZ2R3MG1FZVVMVVJERmo4eWZFSUNDT1lURkc2UUdQdkhSREdQdl80bkpsRl9sTWdtUE9OT3N2RERLcm90T3RYQkNsbWdJSFpuTUI2a19RaUMzazV4S045MVhZVnRVblNSQjhKRURYVm1yaFVJSjl2Tm9jYkozSVIybU81aXJRVHVpX3ZsWnFvSHBFaTFhWmJmTGhuVVJJQlZfOFR3M3FHS0c5Z0lpRmdWbkFqZkZ6MkVnNlBkdXh0WDQ1a00wQXNKeXY2aVd4SUzSAYwCQVVfeXFMT1Z5TVU1UDRzRlVsMXR5TDJ6RXhRLVFkaVRpaGpUZEttcFhWQnVORzllandJZUFmdGVWSzZBaFRhZU9scnotQmlPYmZjSWxqWFlfOHl0Zm9kTjM2bEVUeU50cHNCZnltMUhDMVpZWi1sWE11eURoNlFFMEt4S2hLTmM4YTEwbkZGcXowZHF4SEVYcElROGVNNmFrcjJoYmNXaWJlMXVESFplWGZYemlUZnpEeDl5VFhzeWw4U2dJc1U5YU00WEtSd0NTRy1lS0QyTkstWHFCV1YwLTctRTFHVGJfaUNPWjVYT3dUWkcxUTdESkZabHo3M0xwOVpGc1RzcExrY2h2X0FvOGdqRg?oc=5",
@@ -417,6 +462,13 @@
       "pubDate": "Fri, 30 Oct 2026 17:10:27 GMT",
       "source": "FPF",
       "title": "Jogo de Braga esgotado na bilheteira FPF - FPF"
+    },
+    "93c441ea86037439": {
+      "id": "93c441ea86037439",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRC1tMmxGbnY1a1BwVmFQb2dnZ3lPMXFzTElKcUtkMmVsa0xVb2kzaTdSV3QtRnFRSlJvQXJ1QlplVnRBU21mWkRCbllwTGZhU1FqN1lzeWhpVE5pQk5yOXNWdTRkajFrQmx3X2hETndLSVBITXNNOUxDeXphNmVmS3VYT0hqdndRSDZrRVVMbGZURmF5MEd2bE5KZ2MwSmtkU3lWd1g5RUVWMndFOG9kVQ?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 12:52:00 GMT",
+      "source": "SAPO",
+      "title": "Campanha de escapadinhas gera 1.200 bilhetes para os Açores - SAPO"
     },
     "96aa7a1b6f9b62a4": {
       "id": "96aa7a1b6f9b62a4",
@@ -438,6 +490,13 @@
       "pubDate": "Thu, 17 Sep 2026 06:47:00 GMT",
       "source": "FC Porto",
       "title": "Notícias - Informação sobre os bilhetes para o FC Porto-SC Braga - FC Porto"
+    },
+    "a2cab3eaddbd1b2a": {
+      "id": "a2cab3eaddbd1b2a",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPS25uN1h1OWs5Q2dYY0VIckpwUnB0cV9FZU5hREdGSGUxNGRqY0sxNkRFTFB4SnkwMlZFeGkyQXhLXzZneW1WUzFHa2plRDFPRjZONXhLaVVodHFyV3FKSlhCS2E4ZW5aYTlwVVJ2Z1J3cTdUOXNMckRKQlk1RkxiYXRHSHBQb1FzYTlZTEd6OXNrRngwQjNQX1ZENFNvZnlTaDRCajc2NVNUbU9ULWpVSERGZUhLRTdNbTRfNGlpcHNZUUdlTzZfblg1TVJVUFNqTzlFMHR3dFFoNnZuZUJZd1hWRVh5dG44QlhWcFN6V1M1bk5j0gHPAUFVX3lxTE9GX1JwZkFmdXBNa3Z5YzF0a1N0R2c3SjExdEJqeEdXS2p4QmxYSmROUThNUTgzMmR5THVzR094TkRBY1gyWWJXZS1qdDA4M3pwNy1fZTlGSC0xUGFXdUE3UG14OU4yV0pkYzJROEpxVkltZ1VtbExacVV5QTBOWi1LUzhnMldSVWVRT3dueEFKSHBJV3RBU2F5T2tDZVJld1MtOXExVl9nZEZabWdLV0UwSzB5LVcwN2d0ZTd5SDI0UUZFZjZiYUhXUGVuSjA2RQ?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 19:48:06 GMT",
+      "source": "Record",
+      "title": "FC Porto esgota bilhetes para o jogo em casa do V. Guimarães - Record"
     },
     "a5692a05404fd178": {
       "id": "a5692a05404fd178",
@@ -481,6 +540,13 @@
       "source": "Liga Portugal",
       "title": "Informações sobre a venda de bilhetes para a Final Four da 20.ª edição da Allianz CUP - Liga Portugal"
     },
+    "c7048ebb3e64e950": {
+      "id": "c7048ebb3e64e950",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdkZCNEVMUDZYZXJhMnF3MnpISDhMV0dyU09mR2lEeGJTSkQwTzdpdWdYR0poN3h6bEttYWctZEM0UVgwTTFZbVVXdC1WX3FQUmdIMUpjSkpla2NTT3o2UnRCU0RDODBsUVpETjNWUUJQcER2bjZzN1pEVTAyU0NsMlN6OG92OXNBcjk1d05nZ2pic2toZ0J1Tmlvdy1YY0ZEdlhvdlhNcTc2Wi11OWdhTkpDSGxvQUpsYlhj?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 17:58:45 GMT",
+      "source": "Maisfutebol",
+      "title": "Champions: FC Porto anuncia bilhetes esgotados para visita a Roterdão - Maisfutebol"
+    },
     "c85c417847fb8339": {
       "id": "c85c417847fb8339",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeUhrSVlxSW9IQ0FGbXAzbklxOV9fcGhjb1R3V2hncHp3bUJSZWV3alBfdWZoOG5kWGRvZGhwT0pqa1J4SUwxZG9kZE1TTnNCZzZWSHNsUVhjRGpvbmNGYXJ0eEtyY3FUSlFOd09LZUUydTZIQ3RHRjh3d3ZOa2hMMUVOWmJkZDhDV2s0aXNXUUpyR2xRQ1BGTGg1ZGpRckk3aUVF?oc=5",
@@ -494,6 +560,13 @@
       "pubDate": "Wed, 28 Oct 2026 22:49:08 GMT",
       "source": "RTP",
       "title": "Bilhetes a 15, 20 e 25 euros para a final da Taça da Liga - RTP"
+    },
+    "d14a1cdb090df68f": {
+      "id": "d14a1cdb090df68f",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQTVCcGVyZUh3c001NTFFcVBic2d3SkU5QlFCbjNWR1RjSjloczBnYnVuZVBqUjQtNldfTlZreEVtbDNUWElVTktCbnBkVEc2dnVVeVF2XzJaMjBlZFNDTVFUX0YwRVJpYk05VVJQRFpicWMwS0doNWhlYTE2ZkkyZ0dURGFTdGVJWlVudmJfeklhaVFocm8tQXVyaw?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 07:21:00 GMT",
+      "source": "FC Porto",
+      "title": "Notícias - Esgotado o último lote de bilhetes para Roterdão - FC Porto"
     },
     "d8725a202aed5bec": {
       "id": "d8725a202aed5bec",

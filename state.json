@@ -111,6 +111,14 @@
       "title": "FC Porto - Notícias - Bilhetes para Guimarães à venda online — A partir das 12h00 desta quinta-feira",
       "url": "https://www.fcporto.pt/pt/noticias/20261104-pt-bilhetes-para-guimaraes-a-venda-online"
     },
+    "20261104-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-b-portimonense": {
+      "excluded": true,
+      "id": "20261104-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-b-portimonense",
+      "status": "on_sale",
+      "subcategory": "FC Porto B",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto B-Portimonense — 10.ª jornada da Segunda Liga arranca às 11h00 de domingo no Olival",
+      "url": "https://www.fcporto.pt/pt/noticias/20261104-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-b-portimonense"
+    },
     "20261104-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-sc-braga": {
       "excluded": true,
       "id": "20261104-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-sc-braga",

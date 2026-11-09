@@ -7,9 +7,9 @@
       "home": "Portugal",
       "id": "portugal-vs-dinamarca-14-11-20-45",
       "location": "Liga das Nações 2027 - Fase de Grupos Braga | Estádio Municipal de Braga",
-      "price": "€ 20,00",
+      "price": "",
       "source": "https://feed.continente.pt/fome-de-vencer",
-      "status": "on_sale",
+      "status": "sold_out",
       "time": "20:45",
       "weekday": "Sábado"
     },
@@ -174,15 +174,53 @@
       "subcategory": "Hóquei em Patins",
       "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-Benfica — 1.ª jornada do Nacional de hóquei está agendada para quarta-feira às 20h00 no Dragão Arena",
       "url": "https://www.fcporto.pt/pt/noticias/20261106-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-benfica"
+    },
+    "20261109-pt-bilhetes-a-venda-para-o-fc-porto-usc-paredes": {
+      "excluded": false,
+      "id": "20261109-pt-bilhetes-a-venda-para-o-fc-porto-usc-paredes",
+      "status": "on_sale",
+      "subcategory": "FC Porto",
+      "title": "FC Porto - Notícias - Bilhetes à venda para o FC Porto-USC Paredes — Jogo não incluído no Lugar Anual. Cadeiras reservadas até às 10h00 de quinta-feira",
+      "url": "https://www.fcporto.pt/pt/noticias/20261109-pt-bilhetes-a-venda-para-o-fc-porto-usc-paredes"
+    },
+    "20261109-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-aa-avanca": {
+      "excluded": true,
+      "id": "20261109-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-aa-avanca",
+      "status": "on_sale",
+      "subcategory": "Andebol",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-AA Avanca — 12.ª jornada do Campeonato Nacional de andebol joga-se sábado no Dragão Arena (19h00)",
+      "url": "https://www.fcporto.pt/pt/noticias/20261109-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-aa-avanca"
+    },
+    "20261109-pt-informacao-sobre-os-bilhetes-para-o-vitoria-sc-fc-porto": {
+      "excluded": true,
+      "id": "20261109-pt-informacao-sobre-os-bilhetes-para-o-vitoria-sc-fc-porto",
+      "status": "on_sale",
+      "subcategory": "Basquetebol",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o Vitória SC-FC Porto — 7.ª jornada da Liga de basquetebol joga-se sexta-feira às 20h30 no Pavilhão Unidade Vimaranense",
+      "url": "https://www.fcporto.pt/pt/noticias/20261109-pt-informacao-sobre-os-bilhetes-para-o-vitoria-sc-fc-porto"
     }
   },
   "press": {
+    "00ce1cf3ff127f0e": {
+      "id": "00ce1cf3ff127f0e",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMC16Z3dvMzVQQnhzS29memNBTWtld014RFZBMWdid1dBQ3BjZmpZTF8zRkdTR0t4b3pIYWtZeEk2S2t4Y0l3RVF0alZjTDEtM0FMX3NUZU5uYldqUjBaRkpid2UxeHNUa1JYSUNJTElEQ2YxSFYzanZ1NUVBNkp1ZDA4UUVBTEdBdHhVVUZMZzNqZkVoQVZiUUFrRFlyRWtzbUxOSW9vWEZqTEpRcmlsZXZUS0drSlN4?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 15:30:00 GMT",
+      "source": "SAPO",
+      "title": "FC Porto já colocou à venda os bilhetes para o jogo frente ao Paredes - SAPO"
+    },
     "055d70e7a072d541": {
       "id": "055d70e7a072d541",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRVJmOEc1Q0J6djR3ZFhBV3JpX2FxamdUdHdIcWJEQlVDMjZzeWtacXJpYW1LM0ZoTmFnRlBMTnF3UDJJU2ZGODZ2QkQyLXZDelVRRVZpanhiMDJoQkVQbnZsNDFiY0NOYmFRZ1lPRUM3MWphYVhFaFdhYTZxaS1Vb3FFX1k1Q2M4Ny1SOHBTZlJRdnBZUElFcExlYm52Wm84aUJyd2pidkRxc1FpZGJlUEk5bjhnUjg?oc=5",
       "pubDate": "Mon, 26 Oct 2026 17:14:00 GMT",
       "source": "O Jogo",
       "title": "Restam poucos bilhetes para a receção do FC Porto ao Académico de Viseu - O Jogo"
+    },
+    "077568ca928ee55d": {
+      "id": "077568ca928ee55d",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSzJfY2xMV3ktM212OVhla0k1aURJV2hnZzV2eWpwbHRMWEZMQ2d0V2laNUdmaUtkLXFfZmVwc0o4ZFdLbjNQLWFsTGdOZlAybjdxVDRZRnBQRkE1bTY3cVljNEllWHRXdWhqakljaC0wbDhkMmlrc3gwTjhFbkZOTDFicll1WDRtaHdhZkY4a0Z4ZWRpZXo3UTNzb1dpQ0lkSWtFZU5KRi1obUtsZU5VUU96RXhENW51STdmQndDOV9ZZHRYSEd3alNLcTZoYkNVQlZoNnAybVVlRnJ5enAycTVZUG15QWs?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 15:54:00 GMT",
+      "source": "SAPO",
+      "title": "Primeiro jogo depois do adeus de Cristiano Ronaldo: esgotado, já não há bilhetes para o Portugal-Dinamarca - SAPO"
     },
     "10b6cc24a75736ba": {
       "id": "10b6cc24a75736ba",
@@ -218,6 +256,13 @@
       "pubDate": "Fri, 06 Nov 2026 07:52:00 GMT",
       "source": "FC Porto",
       "title": "Notícias - Informação sobre os bilhetes para o FC Porto-Benfica - FC Porto"
+    },
+    "2d311a180c51ff8e": {
+      "id": "2d311a180c51ff8e",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRHlXQ0lFTC03MkRqaXpHX2Q4OEplal95TjZXNHR5ZFZtaFVNMFN5b0pNWGxHaUc1YWRXOTdoQmhCN0l3bjJpWGlod2FLTHlpUzlCc0dpVkh5d184SVVrT19MYXp0RmVaZENadFpydnAtLU5HSGRld3VYZzlRSHZsVVRUNHJ6VTMxSzU5NmpxaGFBOVpCZUFBcjlHMkt1c1JpOS1SOVc3X0xtR3hoamE0ZUJCRnVLRzVxcndJQU1nZ2lSX3NkejFnU3dpNTZ2SnpJZGRNZXZGUWxVZ0w1UzF4WE1md1A2eDZ3bGhlX29MYl83c3ZzaDBKb1Z30gHaAUFVX3lxTE50SkU1N1pIVEVLekxpT1NpWXRwT095ZDVuMVdCTVBaa3Q2SkRuVG5RNjl0Rkg1VDdkd1JTUTJQVzlCLW8wVzhmcFhXZFo0RUhqSVZuYmVQb0gtRmVrazl5bFlEbG80aWR1UjJrdk1sbG9aamRzTnJFU3d3SzdaR1M5UmJ6VTY2eURvYzd0TEN0NnZ6S2ZPbEtnX25neVlwLTJzY2lXNUlaUG01UVo5TkZXcW9rZTZLdU8tRnlvRnBHcWZpZlotbU1EWnFPQjdwV3hLbDctWTZPb2ZB?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 16:36:59 GMT",
+      "source": "Record",
+      "title": "FC Porto já colocou à venda os bilhetes para o jogo frente ao Paredes - Record"
     },
     "3155e500272f2fbf": {
       "id": "3155e500272f2fbf",
@@ -331,6 +376,13 @@
       "source": "Sou Portista",
       "title": "Feyenoord-FC Porto: últimos 250 bilhetes à venda esta sexta-feira - Sou Portista"
     },
+    "583505f6a8983865": {
+      "id": "583505f6a8983865",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcTFUdzVWUlhwbnJFaW1sZEdVcExGQnVBNHk0LXlJWkp6WkpmczhmQVAyMmliTEE5YUMybHZVdFFnT01vSUhXWXBLbFFGZTFYaTRqMExsQTk5a0NSSVVoUFJSOVU1ZGtyOUpjRWNrLUVuVndVSWtOa2FMUEZIalh6Uk1KeUc3czN4Ulk1TEhZX0QzZ0FXUWc?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 06:05:00 GMT",
+      "source": "FC Porto",
+      "title": "Notícias - Bilhetes à venda para o FC Porto-USC Paredes - FC Porto"
+    },
     "5c30d45e72a89098": {
       "id": "5c30d45e72a89098",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTEYzQmtjZE03b0FZem5aTWR2LXVQMGhtMnY4RmhVUWQ2X3dFbE1GajYza3hPRDE4akIyXzNmTTRoWWp5eVp1cWhGRlJhUy05MFo1LWdiZVdaZWJRc1hpcnVlTnJZcnBvdkNIWXJHTUNmZzB6UEcwMDdRSHBFeVFueGJNUEFuX09VaHpoRWZraGRKSXhMa0tSamJ3YjdWZ0htbnd2YS1LUWJIWk5QWkVsajRnZmo4dUM2NDNxM3N3?oc=5",
@@ -407,6 +459,13 @@
       "pubDate": "Wed, 04 Nov 2026 07:00:00 GMT",
       "source": "FC Porto",
       "title": "Notícias - Bilhetes para Guimarães à venda online - FC Porto"
+    },
+    "780c22587e549116": {
+      "id": "780c22587e549116",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeEt4NzM5MUdGYnRkLUotQlpJTmFQbXp6dWtkQ2ZwaHI2Qi0tMTlvZWxMUHQ5VVZySnRwVHg3VHNBSHAxS1BSbE1DSXc3c0h0d2d0RmNHYnJtV2dEdFV0S28xVkt0LUdfRDJ3bDA3MEo2U0JKUW9ldGVBZGhtQXpoWlR3ZldKS1k0bDBQVG8xX0VTTlpmQTdDOWU2Z2hKNG8wLXdF?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 05:18:00 GMT",
+      "source": "FC Porto",
+      "title": "Notícias - Informação sobre os bilhetes para o FC Porto-AA Avanca - FC Porto"
     },
     "796c1e74199ebc57": {
       "id": "796c1e74199ebc57",
@@ -582,6 +641,13 @@
       "pubDate": "Fri, 06 Nov 2026 07:21:00 GMT",
       "source": "FC Porto",
       "title": "Notícias - Esgotado o último lote de bilhetes para Roterdão - FC Porto"
+    },
+    "d74757d78211480c": {
+      "id": "d74757d78211480c",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYlN4cm1lX082T1J2b2F3SkZRRGxRWEpXTFRyNGozb2lKd1FYN2czSGdDcERWLTRzRDFtQWVvZjRZVG1GME4zVjRhdnVXbTBnbkZhRWhYMWtwVFZ6MFY4aDdIOEtobU9kVDNtRU1yMWxtT3Uzby1oQWlOTnhuSGNWTkR2UTRjbGtKMUhkb21pZ0h0VFV2eHM1clJmZGc5UlFLSDFlR29VeENjQmgxS0dSLWVZWlk2RUhEbFBB?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 18:02:11 GMT",
+      "source": "CNN Portugal",
+      "title": "Champions: FC Porto anuncia bilhetes esgotados para visita a Roterdão - CNN Portugal"
     },
     "d8725a202aed5bec": {
       "id": "d8725a202aed5bec",

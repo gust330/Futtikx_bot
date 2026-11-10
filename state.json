@@ -198,6 +198,30 @@
       "subcategory": "Basquetebol",
       "title": "FC Porto - Notícias - Informação sobre os bilhetes para o Vitória SC-FC Porto — 7.ª jornada da Liga de basquetebol joga-se sexta-feira às 20h30 no Pavilhão Unidade Vimaranense",
       "url": "https://www.fcporto.pt/pt/noticias/20261109-pt-informacao-sobre-os-bilhetes-para-o-vitoria-sc-fc-porto"
+    },
+    "20261110-pt-bilhetes-a-venda-para-o-fc-porto-sporting": {
+      "excluded": false,
+      "id": "20261110-pt-bilhetes-a-venda-para-o-fc-porto-sporting",
+      "status": "on_sale",
+      "subcategory": "FC Porto",
+      "title": "FC Porto - Notícias - Bilhetes à venda para o FC Porto-Sporting — A partir das 10h00 desta quarta-feira",
+      "url": "https://www.fcporto.pt/pt/noticias/20261110-pt-bilhetes-a-venda-para-o-fc-porto-sporting"
+    },
+    "20261110-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-leixoes-sc": {
+      "excluded": true,
+      "id": "20261110-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-leixoes-sc",
+      "status": "on_sale",
+      "subcategory": "Voleibol",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-Leixões SC — 7.ª jornada da Liga feminina de voleibol disputa-se domingo às 18h00 no Dragão Arena",
+      "url": "https://www.fcporto.pt/pt/noticias/20261110-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-leixoes-sc"
+    },
+    "20261110-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-sc-braga": {
+      "excluded": true,
+      "id": "20261110-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-sc-braga",
+      "status": "on_sale",
+      "subcategory": "Voleibol",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-SC Braga — 6.ª jornada da Liga feminina de voleibol disputa-se sábado às 15h00 no Dragão Arena",
+      "url": "https://www.fcporto.pt/pt/noticias/20261110-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-sc-braga"
     }
   },
   "press": {
@@ -235,6 +259,27 @@
       "pubDate": "Wed, 23 Sep 2026 19:18:38 GMT",
       "source": "superportistas.pt",
       "title": "Supertaça de basquetebol: FC Porto e Sporting medem forças em Albufeira com bilhetes já à venda - superportistas.pt"
+    },
+    "167bf46b10b2fa77": {
+      "id": "167bf46b10b2fa77",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMXZXd3BpM0UtOHhRejFnSHg5eUxOcmhZaTQ4eWhaWWNjUlB1RE94d1ZWeHY0LXc5Y1h0X1h1ajlTZVhNVUV6SFV3Q2RMTldnalU4cHhLdFBBMWNaLVJCaXlSWWZGZXdBNW1fLTA0RGl2ZnRvR2cycGNzZ1RzRWpteGlVNlptWEVYU2RqSzJmSTAxWk92ZU1COUFmZ0JYUDRJT0NueExvMDVPNmtabm85eEtnZlk?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 11:48:00 GMT",
+      "source": "SAPO",
+      "title": "FC Porto divulga preço dos bilhetes para o clássico com o Sporting - SAPO"
+    },
+    "185f81c97b191480": {
+      "id": "185f81c97b191480",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNalpTSU9mdjBORE93ZFBVX3BpblFiMldVMkd5UThhaTZGSlVlWjJqVnU3XzNkRTRSSVQzaWZnOWdDQmRDenpsbFJvZ2VFTlc0WEduLXBEdTZQNWVxTUxaajJlR3RoU29Gb1FuRnBXclhZN29aSTJtbzgzQmZiM1lzMDAxM0lISlJKRDNlZ1hDQkZxUWUzd05RcXlqWTczR01vYmU3THRhNjNBMmc4QzNacXN1dzE3aU04dmVOZldYYXB0cjVFNUo4aWNrbTZhdlIzU24yS1BwaW1pY2_SAdYBQVVfeXFMTmtoMGMycmJlZXlaclJLcENqSGJ5R0RTVUZPZkxZQ2dBZVZjVEhxWEU4RGhkOXdUMkU1d2pKamgyTzNpTE1tVUN4TUZLUi0wWVVFTjZfamc5c0hzRzgtakRoYjVlTm1ZLVUwclpqSXZvT0QtVFRhR2FnWFRPT0d6X1dQSDNyTnBWUi1GeHNQUGRXY3k0Z1NkNFJJUDFjY19iS2Qxck5UbHM5SEgxOFpMeTQzM2xjUEVhLVcyWlJQNWt2OUlhUVpJY2loS1NLS2hiMGNTYkVmZw?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 13:07:18 GMT",
+      "source": "Record",
+      "title": "FC Porto divulga preço dos bilhetes para o clássico com o Sporting - Record"
+    },
+    "1c619628790ace6c": {
+      "id": "1c619628790ace6c",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMm9haGZ5dkVfV1Jvcm5CNlFhOE5WY1UtMFJWbEVxbWJ1cDY4M0N0ejRUb09LNHVld0ZPb0ZPRkx5Ymg5UkNNN256S2pRR0RPXzgzUzdTU3B1WjFHRnYzUGNTM1NmSnBYdjFrS1Y0TGJTdVp3SEdKNTVZRjFhZlN6SWhhNzVFWW1yUi1lWnRXZkthLVMtZDR4MVV2RG9Tdw?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 02:22:00 GMT",
+      "source": "Sport TV",
+      "title": "Já há data de venda de bilhetes para o FC Porto x Sporting - Sport TV"
     },
     "1fc3f8a559fa654e": {
       "id": "1fc3f8a559fa654e",
@@ -347,6 +392,13 @@
       "pubDate": "Wed, 04 Nov 2026 06:03:00 GMT",
       "source": "FC Porto",
       "title": "Notícias - Informação sobre os bilhetes para o FC Porto-SC Braga - FC Porto"
+    },
+    "48c283f54a70ac0d": {
+      "id": "48c283f54a70ac0d",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQclpkZjNvSEcxYUlEX01XTWNaODNJZ3hIZUM1TTk4dFFzZFl3QzQzWFNCTVFwUkFIOHZmeVZHOWdpY0RXdTZuUTB1SUNfRHZtc0c1NHc5VFRiRFhxcG9JcmRUWV9CZkIydXBjYWszRmhadUtWeWNmdTJ0Q2tWd2kwX3ZpTmFYbEdqSUktQUpOdExBcW1tTHliZ2FKQUtQT1Q2b0YtSjRfSE4ycWFSYXc?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 08:55:00 GMT",
+      "source": "SAPO",
+      "title": "Venda de bilhetes para o FC Porto-Paredes decorre a bom ritmo - SAPO"
     },
     "49f9e85c284c5f63": {
       "id": "49f9e85c284c5f63",
@@ -565,6 +617,13 @@
       "source": "SAPO",
       "title": "Campanha de escapadinhas gera 1.200 bilhetes para os Açores - SAPO"
     },
+    "94189fb44ba2fe23": {
+      "id": "94189fb44ba2fe23",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ2FveGJuN3N1RVVLQmdFQm1KRlNmNmVtYmswS0dFTW1oXzdsSlRFLXkzX2RDU0txdnNJWkc5MW1oc3FiVkltTjFFMi1QbU9NTHBOd1R6OEJGQmJpdm5WaG1Zd1QxYzFjVENKRnp4bjZaTWhLLTYyVXh2a095VFZ6dzVBRTdHSVhXSVYyZE5wUGpVQQ?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 02:00:00 GMT",
+      "source": "FC Porto",
+      "title": "Notícias - Bilhetes à venda para o FC Porto-Sporting - FC Porto"
+    },
     "96aa7a1b6f9b62a4": {
       "id": "96aa7a1b6f9b62a4",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNenp2eFd6OEtWWDdlQ3o1ZjdoR1VMQS1NUUdVUFI2eTBjRXlXSVNkMnNNMjBfWjJjVXNYYkNNR3NYeGlQem96U3dDbFdnMUVyQlZ4eGJncWFXZHlwTXRRWVYxbjZFckZFblEzTE5JUkFXZ2xsWXlyLWxLLVRQaVVZSzFyR1E2T0lDTFQ4U2JTVUN0U0xPdEtFNmdnZ3c5S3NXdkdiVVZ3MUJtc0NLQ09XZDBVeXgxaHR4cmlR?oc=5",
@@ -607,12 +666,26 @@
       "source": "O Jogo",
       "title": "Sporting: bilhetes para a receção ao LASK Linz já disponíveis - O Jogo"
     },
+    "a871bd629dcbeaad": {
+      "id": "a871bd629dcbeaad",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRk1TSWdFSlF3ZDFybnF0RUNqTk1sSGRyMy1RQ0p3UW45VnZfWllUUzBHUWp2UjdVUjVhOFZLT1ZaaUROSkg2bXh5YmJ1dGY0OGpYUm9DWktHQVFoQXNxa01uZ1BXYnl0M0x5YmtHb251T0lPdlFZSnBOMDF3MldBSTdXQWF2UjRvQUstendQaC1JaGx1UjBfaEs1TmdpcmdYM050aEo5UDNTVDV1MHVrOC1zWExnb2NiblRYbFhfQUU4TGc?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 11:11:33 GMT",
+      "source": "Sou Portista",
+      "title": "Bilhetes para a receção ao Sporting no Dragão à venda a partir desta quarta-feira - Sou Portista"
+    },
     "ad8fee6dc763fd18": {
       "id": "ad8fee6dc763fd18",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNmhwdmFFVWpZS2dwWExmRS1PaVM0T1c1aTZCRUJ3R2NpNDhjX1gyS0Rqa2djVThCRV9yNU9IOHRqRHJ3ckpHdnh1aWotbFcxQ2JTZVVOaU4xNk9TZGpBUGNhV1lUZkE4UFRuWEhFY2Y3SG15ZHI1a1hzc3FxS2t1WDkyVHZjLS1FczRJOTJqSXVhc2VoYmVrT1RuZkM5U1VENEh1LW5UdVVRX3ZmVFRDMlhWb2NfMF9xRTZ1R1V0Q0cwOHFKWlh3MlhBeVo0S3Z5N2FjbnBRcw?oc=5",
       "pubDate": "Fri, 18 Sep 2026 09:46:22 GMT",
       "source": "Marketeer",
       "title": "Quer ver o jogo Portugal x País de Gales em Alvalade? Há bilhetes desde 20€ e 25% de volta para clientes Continente - Marketeer"
+    },
+    "ae6581402e754428": {
+      "id": "ae6581402e754428",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM1UtWjBVZE1IOV9xOGVobjl1akI0dUJjQXlvTjc1dHg1S3pENUczY1NYRnJhSFRZSGZBN1pqbXBVQ3paS19pVEthUzlWTjBMZm9nSndTZ1kzcXk3c0dxeGlqNk1wZHk5QlpoWlBjb3FaR2lacXcyZnJadXJzRHc4blpjNDJ4blJka0NmaU1vaHpaWnBJMGpISU5rMlZnTE9uSWlGMm50NEExUndJTXh5cVNWMTBGREdEMDVQRE5FQ2xvV3lieXlJ?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 11:21:00 GMT",
+      "source": "A Bola",
+      "title": "FC Porto: venda de bilhetes para o clássico com o Sporting arranca quarta-feira - A Bola"
     },
     "b797ab6552067e51": {
       "id": "b797ab6552067e51",
@@ -683,6 +756,13 @@
       "pubDate": "Wed, 04 Nov 2026 16:27:12 GMT",
       "source": "Sou Portista",
       "title": "Bilhetes para a deslocação a Guimarães à venda a partir desta quinta-feira - Sou Portista"
+    },
+    "db11cd6436b5e7c4": {
+      "id": "db11cd6436b5e7c4",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWFppNUoxN29oTFQ2ay0weVBwMEFrVjNEVUwxY254ZFlrdlZfeFh4T0pLdlY0dm5xUVB2WER2eVRTdlpTeFZCSXRxUVBxTGo1YjhQVENCRVZXRFBPQ3pQX25XclBwaXMteHJ1S09DbXZ0akFrSmNBZmhQWGlScXNFQ3laUGVYcnJpLWxnNDJWcXM1WlZVMTZLZ2Y3Q2UtdnkwclQxczFGRy13d0ZYTW1udg?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 13:25:00 GMT",
+      "source": "O Jogo",
+      "title": "Dos 20 aos 160 euros: o preço dos bilhetes para o FC Porto-Sporting - O Jogo"
     },
     "dda081b01e8f954f": {
       "id": "dda081b01e8f954f",

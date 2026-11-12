@@ -13,6 +13,18 @@
       "time": "20:45",
       "weekday": "Sábado"
     },
+    "portugal-vs-islandia-01-12-17-00": {
+      "away": "Islândia",
+      "date": "01/12",
+      "home": "Portugal",
+      "id": "portugal-vs-islandia-01-12-17-00",
+      "location": "Campeonato do Mundo 2027 - Play-off Guimarães | Estádio D. Afonso Henriques",
+      "price": "",
+      "source": "https://feed.continente.pt/fome-de-vencer",
+      "status": "coming_soon",
+      "time": "17:00",
+      "weekday": "Terça"
+    },
     "portugal-vs-noruega-04-10-20-45": {
       "away": "Noruega",
       "date": "04/10",
@@ -230,6 +242,14 @@
       "subcategory": "FC Porto",
       "title": "FC Porto - Notícias - FC Porto-USC Paredes: novos bilhetes disponíveis esta quinta-feira — Segunda fase da venda arranca às 11h00",
       "url": "https://www.fcporto.pt/pt/noticias/20261111-pt-fc-porto-usc-paredes-novos-bilhetes-disponiveis-esta-quinta-feira"
+    },
+    "20261112-pt-oficinas-de-2027-no-museu-fc-porto-com-bilhetes-a-venda": {
+      "excluded": true,
+      "id": "20261112-pt-oficinas-de-2027-no-museu-fc-porto-com-bilhetes-a-venda",
+      "status": "on_sale",
+      "subcategory": "Museu",
+      "title": "FC Porto - Notícias - Oficinas de 2027 no Museu FC Porto com bilhetes à venda — Agenda definida para atividades com a marca de referência do Serviço Educativo",
+      "url": "https://www.fcporto.pt/pt/noticias/20261112-pt-oficinas-de-2027-no-museu-fc-porto-com-bilhetes-a-venda"
     }
   },
   "press": {
@@ -239,6 +259,13 @@
       "pubDate": "Mon, 09 Nov 2026 15:30:00 GMT",
       "source": "SAPO",
       "title": "FC Porto já colocou à venda os bilhetes para o jogo frente ao Paredes - SAPO"
+    },
+    "00ced8d78b056578": {
+      "id": "00ced8d78b056578",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZmVSbzVpQWR5R2RWQ1p3SjY3M1lNMmZHVW42Wkg3NmNMUkFvX18zN0xnQ3Rnc2I0b2FSSEVMU0NYQVJ3SWVtb2UtYVpJM3g0R2FRX29iaTFqRFNCSWd0bHF2azVLbWNYaXlhejBoSXJOLWk0WU1LSS1GaVVWa1FWeFVzOHdkVGRsUVVqc045V25kQ0NPeVNBaVpDV0tOemZLUnpsU2JaVGgxT1kzYjZLdnRUcGlhY2dYZEMwWHZwNWxpSDhlUkNvSHAwMG5xRmtmajdlOA?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 20:20:26 GMT",
+      "source": "Record",
+      "title": "FC Porto esgota bilhetes para o jogo em casa do V. Guimarães - Record"
     },
     "055d70e7a072d541": {
       "id": "055d70e7a072d541",
@@ -589,6 +616,13 @@
       "pubDate": "Wed, 28 Oct 2026 19:31:57 GMT",
       "source": "Record",
       "title": "Académica esgota bilhetes para deslocação a Vizela - Record"
+    },
+    "802a63b768ffa362": {
+      "id": "802a63b768ffa362",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb3ljSkNLTDlEQ2MwUThHc3RkQnlPemJuU1hIRElKblRWYkppMzh4QkdMeEFHSnREel84MmtiYXVFYllhaGttOE5KekdHQ0FXQ3UxNkdNeENacUh5V3B5NmJTancyLTVPcDJfYVdDN0RmUmo5Zi1TdnBYbjFDNmc2Z18yUkgxV2NTcDZjNGtvY2J1enkydHBxRzN4M3ZwekdoQjZhWmVUZkF3bmlXbldzVHF5VUFfeERHa3Uxdg?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 16:57:00 GMT",
+      "source": "TVI",
+      "title": "Champions: FC Porto anuncia bilhetes esgotados para visita a Roterdão - TVI"
     },
     "83753d3fa1e456de": {
       "id": "83753d3fa1e456de",

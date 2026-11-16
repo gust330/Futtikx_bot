@@ -258,6 +258,22 @@
       "subcategory": "Feminino",
       "title": "FC Porto - Notícias - Informação sobre os bilhetes para o SC Rio Tinto-FC Porto — 3.ª eliminatória da Taça de Portugal feminina disputa-se no Complexo Desportivo de Rio Tinto (sábado, 15h00)",
       "url": "https://www.fcporto.pt/pt/noticias/20261113-pt-informacao-sobre-os-bilhetes-para-o-sc-rio-tinto-fc-porto"
+    },
+    "20261116-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-fc-estrelas-susanenses": {
+      "excluded": true,
+      "id": "20261116-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-fc-estrelas-susanenses",
+      "status": "on_sale",
+      "subcategory": "Futsal",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-FC Estrelas Susanenses — 8.ª jornada da 3.ª Divisão de futsal disputa-se no Dragão Arena (domingo, 11h00)",
+      "url": "https://www.fcporto.pt/pt/noticias/20261116-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-fc-estrelas-susanenses"
+    },
+    "20261116-pt-informacao-sobre-os-bilhetes-para-o-sc-tomar-fc-porto": {
+      "excluded": true,
+      "id": "20261116-pt-informacao-sobre-os-bilhetes-para-o-sc-tomar-fc-porto",
+      "status": "on_sale",
+      "subcategory": "Hóquei em Patins",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o SC Tomar-FC Porto — 2.ª jornada do Campeonato de hóquei joga-se quarta-feira às 21h00 no Pavilhão Municipal Patrícia Sampaio",
+      "url": "https://www.fcporto.pt/pt/noticias/20261116-pt-informacao-sobre-os-bilhetes-para-o-sc-tomar-fc-porto"
     }
   },
   "press": {
@@ -289,6 +305,13 @@
       "source": "SAPO",
       "title": "Primeiro jogo depois do adeus de Cristiano Ronaldo: esgotado, já não há bilhetes para o Portugal-Dinamarca - SAPO"
     },
+    "0a2174ee5ea4555a": {
+      "id": "0a2174ee5ea4555a",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdExWWnlGcGlQb2FhTENvZ1lCY1lpRFBSSk9SVGhMNGxHbE04Vmd5ZDZUZzc5TVkzOXMyU0NydUNGYVVZcDFTalQ5U3VMSlN4cGNqbGdrcDVhcVNRY1kxa3ZqNmRTVkZjRnlMWF9EMUd2cVI1Z25UMWJQZjRFaXUxN3ZqZGg5akhBbXAyMEd5aUQ0MjRCbTllXzRKU3RvNk9OaDJnM292ZTlGOFFTVTVoTUJOSWRjMWhiY0tDQ1ZrZmdlOHczc2c?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 16:13:04 GMT",
+      "source": "superportistas.pt",
+      "title": "Bilhetes para o SC Tomar-FC Porto em hóquei em patins já estão definidos - superportistas.pt"
+    },
     "10b6cc24a75736ba": {
       "id": "10b6cc24a75736ba",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObUVHcUtZUEUxTlFkenpLT0Zmcl9fQk1hX0p2NWlaSnJmNlFqOXNMa1gwNDVtTTB2UHU3ZHI2LVdVQklxb29DWHRSLUh1anNELWl1RF9iQUo2Yk13bHVYb0ZYb2VQRDBOazNnaWMtTkZ1VGhwMXlSTmZoS2k3WXJ1RE8zVzd0QmFPTnNnUWVIYllId0VXbzk0eWw4LUZSLWsxS25mWERJeEE2dw?oc=5",
@@ -302,6 +325,13 @@
       "pubDate": "Wed, 23 Sep 2026 19:18:38 GMT",
       "source": "superportistas.pt",
       "title": "Supertaça de basquetebol: FC Porto e Sporting medem forças em Albufeira com bilhetes já à venda - superportistas.pt"
+    },
+    "159d5f37fd17b48d": {
+      "id": "159d5f37fd17b48d",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdmtYbm5IRVVRSHRHTzhlTEdHYjVwODAyeUNrcVZfWllnM3FLSm5uWFUwdk55Qm8yc2NJd2FkSmtXX0pIbmxKSU5yNlNuelZDUzJxQ29DVjRVUi1BOTdhNTlISUVrU0VxaXJJS3pjWkZ6UlJrMERqanA5Vy1FRHo0TUZQVy0tV3F5Q3JkRGI4ZmZyaGJldHFoUXNXSjM2cW5HRFhsUXdJMW1HZGN0R1hFb1dDQ3o?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 06:22:00 GMT",
+      "source": "FC Porto",
+      "title": "Notícias - Informação sobre os bilhetes para o FC Porto-FC Estrelas Susanenses - FC Porto"
     },
     "167bf46b10b2fa77": {
       "id": "167bf46b10b2fa77",

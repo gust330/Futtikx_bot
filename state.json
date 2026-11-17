@@ -274,6 +274,22 @@
       "subcategory": "Hóquei em Patins",
       "title": "FC Porto - Notícias - Informação sobre os bilhetes para o SC Tomar-FC Porto — 2.ª jornada do Campeonato de hóquei joga-se quarta-feira às 21h00 no Pavilhão Municipal Patrícia Sampaio",
       "url": "https://www.fcporto.pt/pt/noticias/20261116-pt-informacao-sobre-os-bilhetes-para-o-sc-tomar-fc-porto"
+    },
+    "20261117-pt-bilhetes-para-os-acores-a-venda-online": {
+      "excluded": false,
+      "id": "20261117-pt-bilhetes-para-os-acores-a-venda-online",
+      "status": "on_sale",
+      "subcategory": "FC Porto",
+      "title": "FC Porto - Notícias - Bilhetes para os Açores à venda online — A partir das 15h00 desta quarta-feira. Jogo não contabilizado na assiduidade",
+      "url": "https://www.fcporto.pt/pt/noticias/20261117-pt-bilhetes-para-os-acores-a-venda-online"
+    },
+    "20261117-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-cd-povoa": {
+      "excluded": true,
+      "id": "20261117-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-cd-povoa",
+      "status": "on_sale",
+      "subcategory": "Basquetebol",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-CD Póvoa — 8.ª jornada da Liga de basquetebol joga-se domingo às 18h30 no Dragão Arena",
+      "url": "https://www.fcporto.pt/pt/noticias/20261117-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-cd-povoa"
     }
   },
   "press": {
@@ -585,6 +601,13 @@
       "source": "Sou Portista",
       "title": "Hóquei em patins: bilhetes para o FC Porto-Benfica já estão à venda - Sou Portista"
     },
+    "608a52e5eae16ba0": {
+      "id": "608a52e5eae16ba0",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSWkyV0Y1QTlSbmFiLTFuVHh0VXNCM0Z3SmwzWVBRMW84alBGU01yS0pDNVZLc0hQOHVGN0E5dTRMOTA0bFhGR3V4MEVFaF9TUTZqclR6R05FVEcyclgxMnF1cUNjTHNrZmpzSzFJdDhDdFN6UC1oTGlrQzdxSUVMZFE2OVNBWFNsaUtQMGc1am9oVG5IS05PU25zd20tTjdZRjZsNFhSYXE4eExsWHU2RHdiYw?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 11:15:17 GMT",
+      "source": "Sou Portista",
+      "title": "Bilhetes à venda para o FC Porto-AD Oeiras no Dragão Arena - Sou Portista"
+    },
     "60ec7bf425d64478": {
       "id": "60ec7bf425d64478",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTFJoU2M3U3ZmTlFSbm8zQ3kwRHB2dnQyTXdFV1RuM2RPaktZaTd0U0dCNDZkU2hodjFzZXhta2pMeE9nN2VZZC1KNEVSQWdpNlRrZS1CREc4eXR2SVZhVmhpYWRCVGgzX2FqdXBBTDJ3UEFqQ0wzR0JHY1dvdkkyQWRDMktpSlJXWFpnSUZ2M0hiM3VfaTZyaWZQQ3A4aDFOM1VPOUlZdnJtUUZBblJGbGJOOXNhbXhVdEJEY3pHcENZVUVvZnZhTzFSTG9CWnQwU3c?oc=5",
@@ -675,6 +698,13 @@
       "pubDate": "Sat, 31 Oct 2026 11:05:04 GMT",
       "source": "Record",
       "title": "Libertadores: Flamengo pede adiamento da venda de bilhetes da final devido a ex-Sporting - Record"
+    },
+    "7d14cbca7e61685b": {
+      "id": "7d14cbca7e61685b",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOHpKLWh6T05ISUo5OEJhUXNhNHkyZTlzbXJwY0VsWDJHcjlGSGJWRG1HYVY0Q2wwVFJUN0FpRDRNWF9wZVNtNEdsTFc2cnJJb0VteW40NGtieVlzRDZPTENNWGZUOER5UXotbGVyalFDcjdxckFLT194Y3E3N25wbHpGTG9EbzNLQmZRd3hqdU5OMEFLbmc5eWxpTl8zbDdudEE?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 03:04:00 GMT",
+      "source": "FC Porto",
+      "title": "Notícias - Informação sobre os bilhetes para o FC Porto-CD Póvoa - FC Porto"
     },
     "7e6bee7506fdc50c": {
       "id": "7e6bee7506fdc50c",
@@ -787,6 +817,13 @@
       "pubDate": "Thu, 17 Sep 2026 06:47:00 GMT",
       "source": "FC Porto",
       "title": "Notícias - Informação sobre os bilhetes para o FC Porto-SC Braga - FC Porto"
+    },
+    "991f06ea26d39f90": {
+      "id": "991f06ea26d39f90",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY0p6bTNrWWtYVUJjNnlHeFlvcWc5eTU2dEVzT2pKVWl1MnVTOVFHcU54SmpWMXJiNTM4M2dBTDRscVlYX0E1bjZGUEFGWXc1b2dDbE5fa1haaDNidmNveEFXVG54V0xFZ0JkTW9wamVvdlZZNGhfNzBfVW9Ta0RFOTRralQ3NTNmVHJvUm14aEFQZzZwN2tCRE9TQ3J6Z0dTV2Zr?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 01:48:00 GMT",
+      "source": "FC Porto",
+      "title": "Notícias - Informação sobre os bilhetes para o ABC Braga-FC Porto - FC Porto"
     },
     "a2cab3eaddbd1b2a": {
       "id": "a2cab3eaddbd1b2a",
@@ -1011,6 +1048,13 @@
       "pubDate": "Tue, 10 Nov 2026 10:05:16 GMT",
       "source": "Record",
       "title": "FC Porto liberta mais bilhetes para jogo com o Paredes na quinta-feira - Record"
+    },
+    "fa7de6afe9d86784": {
+      "id": "fa7de6afe9d86784",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOai1XdmIwSk5CUHE3S1d2Skdsb0JDMjdHSnF6U0ZzM2s0LVpTNHhpY2NielFhaWFaUTNzWWYwQkFPTW1vQ0hfY3p0MS1SSUxFVTVOQm5xd1ZDQTF6UklWMnBBWmNGemhqd0RkbGhsX0c2UnAxRkxQRUQzbEpXU3pzN3ZMWWFseWxrWEF6bksxOTFDV0w0UVhpY2tUNmtobHNxZzJ4MW5NTTNMUXFpTzlVMGZmY2p0R1hlUlBVVmhzNndXMlllcUR6V2dHbXhlMnUwS0JR0gHOAUFVX3lxTE1VZ3dNUWw3Nm1yRFgxMjhEMy1sZEQ3eER6OUhZaUpwN1JGTERmU0VxcGdoMGJHNkNIelhWNnVUa1JrYnlXbzA0SkpuOU5PcEpYOV83MHZoNDMtUUZVM2o5NWwyVzVRV3BUQUhvVEtzYWFYaUJlYjZpdzNXZDczLXVyenVOeW12bHN4OWVLX19mbHVHbzcxMzdlRHd2aGt1UDNqRGUtTl9UN3RhZmZ5clJGQnMtYVdYVWgycTBldFIySzlxalplc2xkVXphZE9B?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 19:08:23 GMT",
+      "source": "Record",
+      "title": "Argentina também sofre no pós-Messi: venda de bilhetes prevê novo cenário desolador em Córdoba - Record"
     },
     "ffaf900c257d848a": {
       "id": "ffaf900c257d848a",

@@ -280,7 +280,7 @@
       "id": "20261117-pt-bilhetes-para-os-acores-a-venda-online",
       "status": "on_sale",
       "subcategory": "FC Porto",
-      "title": "FC Porto - Notícias - Bilhetes para os Açores à venda online — A partir das 15h00 desta quarta-feira. Jogo não contabilizado na assiduidade",
+      "title": "FC Porto - Notícias - Bilhetes para os Açores à venda online — Jogo não contabilizado na assiduidade (5 de dezembro, 18h00)",
       "url": "https://www.fcporto.pt/pt/noticias/20261117-pt-bilhetes-para-os-acores-a-venda-online"
     },
     "20261117-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-cd-povoa": {
@@ -290,6 +290,22 @@
       "subcategory": "Basquetebol",
       "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-CD Póvoa — 8.ª jornada da Liga de basquetebol joga-se domingo às 18h30 no Dragão Arena",
       "url": "https://www.fcporto.pt/pt/noticias/20261117-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-cd-povoa"
+    },
+    "20261118-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-zok-ub": {
+      "excluded": true,
+      "id": "20261118-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-zok-ub",
+      "status": "on_sale",
+      "subcategory": "Voleibol",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o FC Porto-ZOK UB — 1.ª mão dos 16 avos de final da Taça CEV joga-se dia 25 de novembro às 20h00 no Dragão Arena",
+      "url": "https://www.fcporto.pt/pt/noticias/20261118-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-zok-ub"
+    },
+    "20261118-pt-informacao-sobre-os-bilhetes-para-o-gc-vilacondense-fc-porto": {
+      "excluded": true,
+      "id": "20261118-pt-informacao-sobre-os-bilhetes-para-o-gc-vilacondense-fc-porto",
+      "status": "on_sale",
+      "subcategory": "Voleibol",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o GC Vilacondense-FC Porto — 8.ª jornada da Liga de voleibol joga-se domingo às 15h00 no Pavilhão de Desportos de Vila do Conde",
+      "url": "https://www.fcporto.pt/pt/noticias/20261118-pt-informacao-sobre-os-bilhetes-para-o-gc-vilacondense-fc-porto"
     }
   },
   "press": {
@@ -327,6 +343,13 @@
       "pubDate": "Mon, 16 Nov 2026 16:13:04 GMT",
       "source": "Sou Portista",
       "title": "Bilhetes para o SC Tomar-FC Porto em hóquei em patins já estão definidos - Sou Portista"
+    },
+    "0d9604a1f43a71d1": {
+      "id": "0d9604a1f43a71d1",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLTRNMXhyN0dIaEdZQUhXVkJ6eFJfX3FkcFpqYk9SSlQ3MngyWEw1QWRqTm9MNGtDSW5WWVpEODNXeFIweG9UdXlzQjhSV0QxZ0FfUmZpVWNMYVF1S1M5b3gzTzlNWkdqemdUdVVjcmt2VXJqUERkelY0TDZyQ2hQTHJTdHh1NnRIbEpYRE43NWJLQU03bmlXeTJWQWJncy1mYVpvRnpVYUlyY3c?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 02:57:00 GMT",
+      "source": "FC Porto",
+      "title": "Notícias - Informação sobre os bilhetes para o GC Vilacondense-FC Porto - FC Porto"
     },
     "10b6cc24a75736ba": {
       "id": "10b6cc24a75736ba",
@@ -937,6 +960,13 @@
       "source": "RTP",
       "title": "Bilhetes a 15, 20 e 25 euros para a final da Taça da Liga - RTP"
     },
+    "ce1a8991ce6931af": {
+      "id": "ce1a8991ce6931af",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcnRwUDZQSTk3c181d29LU3EyWEtxQ2pGVnBOVTFFWmxBYWc4Z0JiX1dydVVkbFk4Vjg2ZklxN1lnNGhhUVF4S2FhRkZaNE8zak1hWm0yb0N5dmNDNFNrd1ZBUGNpRHJ1c0RkZHhEcFYyazUzREQ1NDE2aFZqNzNjVzBrNDVRQzNpS2dKLU83THN0VmpjZUYza3RxcmRlZFk?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 05:27:00 GMT",
+      "source": "FC Porto",
+      "title": "Notícias - Informação sobre os bilhetes para o FC Porto-ZOK UB - FC Porto"
+    },
     "d14a1cdb090df68f": {
       "id": "d14a1cdb090df68f",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQTVCcGVyZUh3c001NTFFcVBic2d3SkU5QlFCbjNWR1RjSjloczBnYnVuZVBqUjQtNldfTlZreEVtbDNUWElVTktCbnBkVEc2dnVVeVF2XzJaMjBlZFNDTVFUX0YwRVJpYk05VVJQRFpicWMwS0doNWhlYTE2ZkkyZ0dURGFTdGVJWlVudmJfeklhaVFocm8tQXVyaw?oc=5",
@@ -1048,6 +1078,13 @@
       "pubDate": "Tue, 10 Nov 2026 10:05:35 GMT",
       "source": "diadejogo.pt",
       "title": "FC Porto-Paredes com 4000 bilhetes vendidos - diadejogo.pt"
+    },
+    "effebddf8e27e9c1": {
+      "id": "effebddf8e27e9c1",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdXBKZV9BdnBjemk0Um1Vd1g4SDBlYXFNbXhZb2pCVUlNdXY3OUNlYjh3a1pUOFBUSUQ3dHZCR3g3UmZOcFl6N2JOZmNkNFRObkIzWURHWGFKR3hlcmYtS3p0TFFxelFYR19tYkRxdWRkbXBGZW94c2p4RnNxaDBpQkJ3b3ZNN21qcllnYUo1UXZvOU54NEJGcE9HQ0lCeDBJRWY1Rkh5Y2J1anY0eVpnLXg4MzdwWXA1?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 11:49:21 GMT",
+      "source": "Verdadeiro Olhar",
+      "title": "Mais de 3000 adeptos do Paredes esgotam bilhetes para o Dragão em menos de 20 minutos - Verdadeiro Olhar"
     },
     "f2dbf5625f14c467": {
       "id": "f2dbf5625f14c467",

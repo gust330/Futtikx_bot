@@ -283,6 +283,14 @@
       "title": "FC Porto - Notícias - Bilhetes para os Açores à venda online — Jogo não contabilizado na assiduidade (5 de dezembro, 18h00)",
       "url": "https://www.fcporto.pt/pt/noticias/20261117-pt-bilhetes-para-os-acores-a-venda-online"
     },
+    "20261117-pt-informacao-sobre-os-bilhetes-para-o-abc-braga-fc-porto": {
+      "excluded": true,
+      "id": "20261117-pt-informacao-sobre-os-bilhetes-para-o-abc-braga-fc-porto",
+      "status": "on_sale",
+      "subcategory": "Andebol",
+      "title": "FC Porto - Notícias - Informação sobre os bilhetes para o ABC Braga-FC Porto — 13.ª jornada do Campeonato de andebol joga-se sábado às 18h00 no Pavilhão da Escola EB 2/3 André Soares",
+      "url": "https://www.fcporto.pt/pt/noticias/20261117-pt-informacao-sobre-os-bilhetes-para-o-abc-braga-fc-porto"
+    },
     "20261117-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-cd-povoa": {
       "excluded": true,
       "id": "20261117-pt-informacao-sobre-os-bilhetes-para-o-fc-porto-cd-povoa",

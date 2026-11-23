@@ -13,15 +13,27 @@
       "time": "20:45",
       "weekday": "Sábado"
     },
+    "portugal-vs-dinamarca-terminado-1-4": {
+      "away": "Dinamarca",
+      "date": "Terminado 1 - 4",
+      "home": "Portugal",
+      "id": "portugal-vs-dinamarca-terminado-1-4",
+      "location": "Liga das Nações 2027 - Fase de Grupos Braga | Estádio Municipal de Braga",
+      "price": "",
+      "source": "https://feed.continente.pt/fome-de-vencer",
+      "status": "coming_soon",
+      "time": "",
+      "weekday": ""
+    },
     "portugal-vs-islandia-01-12-17-00": {
       "away": "Islândia",
       "date": "01/12",
       "home": "Portugal",
       "id": "portugal-vs-islandia-01-12-17-00",
       "location": "Campeonato do Mundo 2027 - Play-off Guimarães | Estádio D. Afonso Henriques",
-      "price": "",
+      "price": "€ 5,00",
       "source": "https://feed.continente.pt/fome-de-vencer",
-      "status": "coming_soon",
+      "status": "on_sale",
       "time": "17:00",
       "weekday": "Terça"
     },
